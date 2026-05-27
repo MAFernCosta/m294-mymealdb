@@ -1,6 +1,7 @@
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
+import "bootstrap-icons/font/bootstrap-icons.css";
 import Home from './pages/Home';
 import About from './pages/About';
 import Layout from './components/Layout';
