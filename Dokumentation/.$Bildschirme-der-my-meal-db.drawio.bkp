@@ -25,7 +25,7 @@
             <mxPoint x="800" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Oi8QJduOWwT6H5EFN6P-7" value="&lt;font&gt;&lt;span style=&quot;color: rgba(33, 37, 41, 0.75); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;© 2026 Powered by&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;https://www.themealdb.com/&quot; style=&quot;box-sizing: border-box; color: rgb(13, 110, 253); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;themealdb&lt;/a&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2Oi8QJduOWwT6H5EFN6P-7" value="&lt;font&gt;&lt;span style=&quot;color: rgba(33, 37, 41, 0.75); font-family: system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Noto Sans&amp;quot;, &amp;quot;Liberation Sans&amp;quot;, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; background-color: rgb(255, 255, 255);&quot;&gt;© 2026 My Meal DB&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="78" y="500" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2Oi8QJduOWwT6H5EFN6P-8" value="About" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#212529BF;" parent="1" vertex="1">
@@ -792,9 +792,6 @@
         <mxCell id="YHFAVCW6dY6QNzzjO4un-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rW-8Bqr85x4uBN4jgVKc-3" target="rW-8Bqr85x4uBN4jgVKc-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YHFAVCW6dY6QNzzjO4un-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rW-8Bqr85x4uBN4jgVKc-3" target="YHFAVCW6dY6QNzzjO4un-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="rW-8Bqr85x4uBN4jgVKc-3" value="Search" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="255" y="50" width="120" height="30" as="geometry" />
         </mxCell>
@@ -825,16 +822,6 @@
         </mxCell>
         <mxCell id="HFQ8XrKFAQ506wyuIrKc-1" value="&lt;b&gt;Navigation&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Arial;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YHFAVCW6dY6QNzzjO4un-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="YHFAVCW6dY6QNzzjO4un-2" target="rW-8Bqr85x4uBN4jgVKc-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="225" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="YHFAVCW6dY6QNzzjO4un-2" value="Favorites" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="140" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
