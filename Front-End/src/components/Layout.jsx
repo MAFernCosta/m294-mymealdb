@@ -4,11 +4,11 @@ import Footer from "./Footer";
 
 function Layout() {
     return (
-        <div>
-            <header>
+        <div className="min-vh-100 d-flex flex-column">
+            <header className="fixed-top bg-white">
                 <Navbar />
             </header>
-            <main>
+            <main className="flex-grow-1 flex-shrink-1">
                 <Outlet />
             </main>
             <footer>
