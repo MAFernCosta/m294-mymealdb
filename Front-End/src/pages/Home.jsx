@@ -1,7 +1,8 @@
 import { useState, useEffect } from "react";
 import ResourceState from "../components/ResourceState";
+import MealCard from "../components/MealCard";
+import { searchMeal } from "../api/meals";
 
-const API_URL = import.meta.env.VITE_API_URL;
 
 function Home() {
     const [meals, setMeals] = useState([]);
@@ -9,16 +10,11 @@ function Home() {
     const [error, setError] = useState(null);
     const [searchKeyword, setSearchKeyword] = useState("");
 
-
-    async function loadQuestions(e) {
+    async function handleSearchMeal(e) {
         setSearchKeyword(e.target.value);
         try {
             setIsLoading(true);
-            const response = await fetch(`${API_URL}/meals?Meal:contains=${searchKeyword}`);
-            if (!response.ok) {
-                throw new Error("Fragen konnten nicht geladen werden");
-            }
-            const data = await response.json();
+            const data = await searchMeal(searchKeyword);
             setMeals(data);
         } catch (err) {
             setMeals([]);
@@ -32,17 +28,22 @@ function Home() {
             <div className="container">
                 <div className="mb-3 text-center w-50 mx-auto py-5 mb-3">
                     <h1 className="fs-2">Search your meal</h1>
-                    <input type="text" className="form-control" value={searchKeyword} onChange={loadQuestions}/>
+                    <input type="text" className="form-control" value={searchKeyword} onChange={handleSearchMeal} />
                 </div>
             </div>
-            <div className="container mt-5">
-                <ResourceState error={error} loading={isLoading} />
-                {meals.length > 0 && 
-                meals.map(el => 
-                    <p key={el.Meal}>{el.Meal}</p>
-                )
-                }
-            </div>
+            {searchKeyword && 
+            <div className="bg-body-tertiary py-5">
+                <div className="container mx-5">
+                    <ResourceState error={error} loading={isLoading} />
+                    {meals.length > 0 &&
+                        <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                            {meals.map(meal =>
+                                <MealCard meal={meal} key={meal.id} />
+                            )}
+                        </div>
+                    }
+                </div>
+            </div>}
         </>
     )
 }
