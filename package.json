@@ -1,0 +1,9 @@
+{
+  "name": "mymealdb",
+  "scripts": {
+    "dev": "concurrently \"npm run dev --prefix Front-End\" \"npm run api --prefix Ressourcen\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}
