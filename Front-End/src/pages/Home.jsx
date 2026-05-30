@@ -44,7 +44,7 @@ function Home() {
 
             {searchKeyword &&
                 <div className="bg-body-tertiary py-5">
-                    <div className="container mx-5">
+                    <div className="container">
                         <ResourceState error={error} loading={isLoading} />
                         {meals.length > 0 &&
                             <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">

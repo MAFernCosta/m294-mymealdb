@@ -154,7 +154,15 @@ function MealDetails() {
                                 <div className='pb-2'>
                                     <div className="d-flex justify-content-between align-items-center">
                                         <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-2">
-                                            <Input isEdit={isEditMode} type="text" value={name} onChange={e => setName(e.target.value)} placeholder="Meal name" required={true}/>
+                                            <Input 
+                                            isEdit={isEditMode} 
+                                            type="text" 
+                                            value={name} 
+                                            onChange={e => setName(e.target.value)} 
+                                            placeholder="Meal name" 
+                                            required={true}
+                                            className="border-0 p-0 m-0"
+                                            />
                                         </h1>
                                         <div>
                                             <div className="btn-group me-2">
@@ -181,12 +189,14 @@ function MealDetails() {
                                             type="text"
                                             placeholder="Category"
                                             required={true}
+                                            className="border-0 p-0 m-0"
                                         />, <Input
                                             isEdit={isEditMode}
                                             value={country}
                                             onChange={e => setCountry(e.target.value)} type="text"
                                             placeholder="Origin country"
                                             required={true}
+                                            className="border-0 p-0 m-0"
                                         />
                                     </small>
                                 </div>
@@ -209,6 +219,7 @@ function MealDetails() {
                                                 value={mealThumb}
                                                 onChange={e => setMealThumb(e.target.value)}
                                                 placeholder="Image URL"
+                                                className="border-0 p-0 m-0 w-100"
                                             />
                                         }
 
@@ -225,6 +236,7 @@ function MealDetails() {
                                                     placeholder="Ingredient"
                                                     className="w-40"
                                                     required={true}
+                                                    className="border-0 p-0 m-0"
                                                 /> - <Input
                                                     isEdit={isEditMode}
                                                     value={el.measure_metric}
@@ -232,6 +244,7 @@ function MealDetails() {
                                                     placeholder="Mesure"
                                                     type="text"
                                                     className="w-30"
+                                                    className="border-0 p-0 m-0"
                                                 />
                                                 {isEditMode &&
                                                     <small>
@@ -279,6 +292,7 @@ function MealDetails() {
                                                 onChange={e => setSource(e.target.value)}
                                                 type="url"
                                                 placeholder="https://www.exmaple.com/"
+                                                className="border-0 p-0 m-0"
                                             />
                                         </div>
                                     </div>
