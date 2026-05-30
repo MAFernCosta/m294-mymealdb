@@ -27,7 +27,7 @@ function Navbar() {
             submenu: [
                 {
                     label: "Create a new Meal",
-                    to:""
+                    to:"mealdetails/new"
                 }
             ]
         },

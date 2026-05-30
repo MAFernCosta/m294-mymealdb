@@ -31,6 +31,7 @@ function Home() {
                     <input type="text" className="form-control" value={searchKeyword} onChange={handleSearchMeal} />
                 </div>
             </div>
+            
             {searchKeyword && 
             <div className="bg-body-tertiary py-5">
                 <div className="container mx-5">
@@ -43,6 +44,7 @@ function Home() {
                         </div>
                     }
                 </div>
+                
             </div>}
         </>
     )
