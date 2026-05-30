@@ -2,8 +2,8 @@
   "name": "mymealdb",
   "scripts": {
     "dev": "concurrently \"npm run dev --prefix Front-End\" \"npm run api --prefix Ressourcen\"",
-    "test": "npm run test --prefix Front-End"
-
+    "test": "npm run test --prefix Front-End",
+    "postinstall": "npm install --prefix Front-End && npm install --prefix Ressourcen"
   },
   "devDependencies": {
     "concurrently": "^8.0.0"
