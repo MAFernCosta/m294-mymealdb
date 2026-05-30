@@ -5,7 +5,8 @@ import ResourceState from "../components/ResourceState";
 import Input from "../components/Input";
 
 function MealDetails() {
-    const { idMeal } = useParams();
+    const { idMeal, edit } = useParams();
+    
 
     //URL for meal thumbnail placeholder 
     const thumbPlaceholder = "https://placehold.co/400x400?text=Meal+thumbnail";
@@ -13,7 +14,7 @@ function MealDetails() {
     const [meals, setMeals] = useState([]);
     const [isLoading, setIsLoading] = useState(true);
     const [error, setError] = useState(null);
-    const [isEditMode, setIsEditMode] = useState(false);
+    const [isEditMode, setIsEditMode] = useState(edit ? true : false);
     const [message, setMessage] = useState(null);
 
     //Inputs

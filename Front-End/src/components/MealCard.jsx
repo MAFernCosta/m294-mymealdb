@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-function MealCard({ meal }) {
+function MealCard({ meal, handleDelete }) {
     const { id, mealName, mealThumb } = meal;
 
     return (
@@ -19,8 +19,8 @@ function MealCard({ meal }) {
                         bottom: "12px",
                         right: "0px"
                     }}>
-                        <button className="btn btn-sm btn-outline-secondary "><i className="bi bi-pencil-fill"></i></button>
-                        <button className="btn btn-sm btn-outline-secondary "><i className="bi bi-x-lg"></i></button>
+                        <Link to={`/mealdetails/${id}/true`}className="btn btn-sm btn-outline-secondary "><i className="bi bi-pencil-fill"></i></Link>
+                        <button onClick={() => handleDelete(id)} className="btn btn-sm btn-outline-secondary"><i className="bi bi-x-lg"></i></button>
                     </div>
                 }
             </div>

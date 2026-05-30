@@ -7,6 +7,7 @@ function Navbar() {
             to: "/",
             submenu: []
         },
+        /* Maybe a feature for the next version
         {
             label: "Categories",
             to: "",
@@ -20,7 +21,7 @@ function Navbar() {
                     to:""
                 },
             ]
-        },
+        },*/
         {
             label: "Admin",
             to: "",

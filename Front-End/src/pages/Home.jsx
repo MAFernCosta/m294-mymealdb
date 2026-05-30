@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import ResourceState from "../components/ResourceState";
 import MealCard from "../components/MealCard";
-import { searchMeal } from "../api/meals";
+import { searchMeal, deleteMeal } from "../api/meals";
 
 
 function Home() {
@@ -23,6 +23,16 @@ function Home() {
             setIsLoading(false);
         }
     }
+
+    async function handleDelete(id) {
+        try {
+            await deleteMeal(id);
+            setMeals((prev) => prev.filter((q) => q.id !== id));
+        } catch (err) {
+            setError(err.message);
+        }
+    }
+
     return (
         <>
             <div className="container">
@@ -31,21 +41,21 @@ function Home() {
                     <input type="text" className="form-control" value={searchKeyword} onChange={handleSearchMeal} />
                 </div>
             </div>
-            
-            {searchKeyword && 
-            <div className="bg-body-tertiary py-5">
-                <div className="container mx-5">
-                    <ResourceState error={error} loading={isLoading} />
-                    {meals.length > 0 &&
-                        <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-                            {meals.map(meal =>
-                                <MealCard meal={meal} key={meal.id} />
-                            )}
-                        </div>
-                    }
-                </div>
-                
-            </div>}
+
+            {searchKeyword &&
+                <div className="bg-body-tertiary py-5">
+                    <div className="container mx-5">
+                        <ResourceState error={error} loading={isLoading} />
+                        {meals.length > 0 &&
+                            <div className="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+                                {meals.map(meal =>
+                                    <MealCard meal={meal} key={meal.id} handleDelete={handleDelete} />
+                                )}
+                            </div>
+                        }
+                    </div>
+
+                </div>}
         </>
     )
 }
