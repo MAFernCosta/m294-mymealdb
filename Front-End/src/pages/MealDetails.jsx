@@ -3,6 +3,8 @@ import { searchMealByID, updateMeal, createMeal, deleteMeal } from "../api/meals
 import { useState, useEffect } from "react";
 import ResourceState from "../components/ResourceState";
 import Input from "../components/Input";
+import { useNavigation } from "react-router-dom";
+
 
 function MealDetails() {
     const { idMeal, edit } = useParams();
@@ -81,6 +83,7 @@ function MealDetails() {
     }
 
     const handleNewIngredient = () => {
+        event.preventDefault();
         setIngredients((prev) => {
             // Make a copie and add a new object at the end.   
             const next = [...prev, { name: "", measure_metric: "" }];
@@ -88,6 +91,7 @@ function MealDetails() {
         });
     }
     const handleRemoveIngredient = index => {
+        event.preventDefault();
         setIngredients((prev) => {
             const next = [...prev];
             next.splice(index, 1); // remove the index position.
@@ -128,7 +132,7 @@ function MealDetails() {
     const handleDeleteDiscard = async () => {
         event.preventDefault();
         if (isEditMode) {
-            window.location.reload();
+            location.replace(`/mealdetails/${idMeal}`);
         } else {
             try {
                 await deleteMeal(idMeal);
@@ -234,17 +238,15 @@ function MealDetails() {
                                                     onChange={e => handleIngredientsChange(index, e.target.value)}
                                                     type="text"
                                                     placeholder="Ingredient"
-                                                    className="w-40"
+                                                    className="w-40 border-0 p-0 m-0"
                                                     required={true}
-                                                    className="border-0 p-0 m-0"
                                                 /> - <Input
                                                     isEdit={isEditMode}
                                                     value={el.measure_metric}
                                                     onChange={e => handleMesureChange(index, e.target.value)}
                                                     placeholder="Mesure"
                                                     type="text"
-                                                    className="w-30"
-                                                    className="border-0 p-0 m-0"
+                                                    className="w-30 border-0 p-0 m-0"
                                                 />
                                                 {isEditMode &&
                                                     <small>
@@ -253,8 +255,8 @@ function MealDetails() {
                                             </li>
                                         )}
                                             {isEditMode &&
-                                                <button className="btn">
-                                                    <i className="bi bi-plus-square" onClick={handleNewIngredient}></i>
+                                                <button className="btn" onClick={handleNewIngredient}>
+                                                    <i className="bi bi-plus-square"></i>
                                                 </button>
                                             }
                                         </ul>
@@ -283,8 +285,8 @@ function MealDetails() {
                                     </small>)
                                 }
                                 {isEditMode &&
-                                    <div className="d-flex flex-row-reverse">
-                                        <div>
+                                    <div className="d-flex">
+                                        <div className="w-100">
                                             <label>Source:</label><br />
                                             <Input
                                                 value={source}
@@ -292,7 +294,7 @@ function MealDetails() {
                                                 onChange={e => setSource(e.target.value)}
                                                 type="url"
                                                 placeholder="https://www.exmaple.com/"
-                                                className="border-0 p-0 m-0"
+                                                className="border-0 p-0 m-0 w-100"
                                             />
                                         </div>
                                     </div>
