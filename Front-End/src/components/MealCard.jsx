@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
+import Modal from "./Modal";
 
 function MealCard({ meal, handleDelete }) {
     const { id, mealName, mealThumb } = meal;
-
     return (
         <div className="col">
             <div className="position-relative">
@@ -19,12 +19,16 @@ function MealCard({ meal, handleDelete }) {
                         bottom: "12px",
                         right: "0px"
                     }}>
-                        <Link to={`/mealdetails/${id}/true`}className="btn btn-sm btn-outline-secondary "><i className="bi bi-pencil-fill"></i></Link>
-                        <button onClick={() => handleDelete(id)} className="btn btn-sm btn-outline-secondary"><i className="bi bi-x-lg"></i></button>
+                        <Link to={`/mealdetails/${id}/true`} className="btn btn-sm btn-outline-secondary ">
+                            <i className="bi bi-pencil-fill"></i>
+                        </Link>
+                        <button data-bs-toggle="modal" data-bs-target={"#deleteModal" + id} className="btn btn-sm btn-outline-secondary">
+                            <i className="bi bi-x-lg"></i>
+                        </button>
                     </div>
                 }
             </div>
-
+            <Modal mealName={mealName} onConfirmation={() => handleDelete(id)} modalId={"deleteModal" + id}/>
         </div>
     )
 

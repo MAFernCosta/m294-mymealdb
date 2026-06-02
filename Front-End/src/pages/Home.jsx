@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import ResourceState from "../components/ResourceState";
 import MealCard from "../components/MealCard";
 import { searchMeal, deleteMeal } from "../api/meals";
+import Modal from "../components/Modal";
 
 
 function Home() {
@@ -25,12 +26,14 @@ function Home() {
     }
 
     async function handleDelete(id) {
+        
         try {
             await deleteMeal(id);
             setMeals((prev) => prev.filter((q) => q.id !== id));
         } catch (err) {
             setError(err.message);
         }
+       return <Modal/>
     }
 
     return (

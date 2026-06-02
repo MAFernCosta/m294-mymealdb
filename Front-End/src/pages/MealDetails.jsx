@@ -4,11 +4,12 @@ import { useState, useEffect } from "react";
 import ResourceState from "../components/ResourceState";
 import Input from "../components/Input";
 import { useNavigation } from "react-router-dom";
+import Modal from "../components/Modal";
 
 
 function MealDetails() {
     const { idMeal, edit } = useParams();
-    
+
 
     //URL for meal thumbnail placeholder 
     const thumbPlaceholder = "https://placehold.co/400x400?text=Meal+thumbnail";
@@ -129,18 +130,18 @@ function MealDetails() {
         }
     }
 
-    const handleDeleteDiscard = async () => {
-        event.preventDefault();
-        if (isEditMode) {
-            location.replace(`/mealdetails/${idMeal}`);
-        } else {
-            try {
-                await deleteMeal(idMeal);
-                setMessage("Meal deleted sucessfully");
-            } catch (err) {
-                setError(err.message);
-            }
+    const handleDelete = async () => {
+        try {
+            await deleteMeal(idMeal);
+            setMessage("Meal deleted sucessfully");
+        } catch (err) {
+            setError(err.message);
         }
+    }
+
+    const handleDiscard = () => {
+        event.preventDefault();
+        location.replace(`/mealdetails/${idMeal}`);
     }
 
     const toggleEditMode = () => {
@@ -149,8 +150,8 @@ function MealDetails() {
 
     return (
         <>
-            <ResourceState error={error} loading={isLoading} message={message}/>
-            {!isLoading && (!error &&( !message &&
+            <ResourceState error={error} loading={isLoading} message={message} />
+            {!isLoading && (!error && (!message &&
                 <form onSubmit={handleSaveEdit}>
                     <section className='pb-5 bg-body-secondary'>
                         <div className='container'>
@@ -158,30 +159,38 @@ function MealDetails() {
                                 <div className='pb-2'>
                                     <div className="d-flex justify-content-between align-items-center">
                                         <h1 className="display-5 fw-bold text-body-emphasis lh-1 mb-2">
-                                            <Input 
-                                            isEdit={isEditMode} 
-                                            type="text" 
-                                            value={name} 
-                                            onChange={e => setName(e.target.value)} 
-                                            placeholder="Meal name" 
-                                            required={true}
-                                            className="border-0 p-0 m-0"
+                                            <Input
+                                                isEdit={isEditMode}
+                                                type="text"
+                                                value={name}
+                                                onChange={e => setName(e.target.value)}
+                                                placeholder="Meal name"
+                                                required={true}
+                                                className="border-0 p-0 m-0"
                                             />
                                         </h1>
                                         <div>
                                             <div className="btn-group me-2">
                                                 <button
-                                                type="submit"
+                                                    type="submit"
                                                     className="btn btn-sm btn-outline-secondary"
                                                 >
                                                     {!isEditMode ? <i className="bi bi-pencil-fill"></i> : <i className="bi bi-floppy-fill"></i>}
                                                 </button>
-                                                <button
+                                                {!isEditMode ? <div
                                                     className="btn btn-sm btn-outline-secondary "
-                                                    onClick={handleDeleteDiscard}
+                                                    data-bs-toggle="modal" data-bs-target="#deletemodal"
                                                 >
-                                                    {!isEditMode ? <i className="bi bi-x-lg"></i> : <i className="bi bi-arrow-left-square"></i>}
-                                                </button>
+                                                    <i className="bi bi-x-lg"></i>
+                                                </div>
+                                                    :
+                                                    <button
+                                                        className="btn btn-sm btn-outline-secondary "
+                                                        onClick={handleDiscard}
+                                                    >
+                                                        <i className="bi bi-arrow-left-square"></i>
+                                                    </button>}
+
                                             </div>
                                         </div>
                                     </div>
@@ -302,7 +311,9 @@ function MealDetails() {
                             </div>
                         </div>
                     </section>
+                    <Modal mealName={name} onConfirmation={handleDelete} modalId="deletemodal"/>
                 </form>))}
+                
         </>
     )
 }
