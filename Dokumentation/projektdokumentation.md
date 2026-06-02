@@ -4,7 +4,7 @@
 
 ## Titelblatt
 
- **Projektname:** My meal DB
+**Projektname:** My meal DB
 
 **Name:** Costa, Miguel
 
@@ -55,7 +55,7 @@ Akzeptanzkriterien:
 
 - Es gibt ein Suchfeld auf der Hauptseite
 - Die Ergebnisse werden als Karten angezeigt
-- Wenn keine Mahlzeit gefunden wird, erscheint keine Karte und kein Fehler
+- Wenn keine Mahlzeit gefunden wird, erscheint keine Karte
 
 ### US02 — Mahlzeit-Details anzeigen
 
@@ -158,7 +158,7 @@ Die Screen-Mockups umfassen sowohl die Desktop- als auch die Mobile-Ansicht der 
 
 ![](assets/2026-05-30-15-42-39-screenmockup-mealdetails-desktop.jpg)
 
-### Mobile 
+### Mobile
 
 #### Homepage
 
