@@ -9,13 +9,27 @@ function Home() {
     const [meals, setMeals] = useState([]);
     const [isLoading, setIsLoading] = useState(false);
     const [error, setError] = useState(null);
-    const [searchKeyword, setSearchKeyword] = useState("");
 
-    async function handleSearchMeal(e) {
-        setSearchKeyword(e.target.value);
+    const [query, setQuery] = useState("");
+    const [debouncedQuery, setDebouncedQuery] = useState("");
+
+    // Delay the actual query by 400ms after the user stops typing
+    useEffect(() => {
+        const timer = setTimeout(() => setDebouncedQuery(query), 400);
+        return () => clearTimeout(timer); // cancel if user keeps typing
+    }, [query]);
+
+    useEffect(() => {
+        if (!debouncedQuery) return;
+        // fire your API call here
+        handleSearchMeal();
+    }, [debouncedQuery]);
+
+    async function handleSearchMeal() {
+        
         try {
             setIsLoading(true);
-            const data = await searchMeal(searchKeyword);
+            const data = await searchMeal(debouncedQuery);
             setMeals(data);
         } catch (err) {
             setMeals([]);
@@ -26,14 +40,14 @@ function Home() {
     }
 
     async function handleDelete(id) {
-        
+
         try {
             await deleteMeal(id);
             setMeals((prev) => prev.filter((q) => q.id !== id));
         } catch (err) {
             setError(err.message);
         }
-       return <Modal/>
+        return <Modal />
     }
 
     return (
@@ -41,11 +55,11 @@ function Home() {
             <div className="container">
                 <div className="mb-3 text-center w-50 mx-auto py-5 mb-3">
                     <h1 className="fs-2">Search your meal</h1>
-                    <input type="text" className="form-control" value={searchKeyword} onChange={handleSearchMeal} />
+                    <input type="text" className="form-control" value={query} onChange={e => setQuery(e.target.value)} />
                 </div>
             </div>
 
-            {searchKeyword &&
+            {debouncedQuery &&
                 <div className="bg-body-tertiary py-5">
                     <div className="container">
                         <ResourceState error={error} loading={isLoading} />

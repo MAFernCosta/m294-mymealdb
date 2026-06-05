@@ -1,7 +1,7 @@
 {
   "meals": [
     {
-      "id": "52771",
+      "id": "1",
       "mealName": "Spicy Arrabiata Penne",
       "category": "Vegetarian",
       "area": "Italian",
@@ -56,7 +56,7 @@
       "dateModified": null
     },
     {
-      "id": "52772",
+      "id": "2",
       "mealName": "Teriyaki Chicken Casserole",
       "category": "Chicken",
       "area": "Japanese",
@@ -116,7 +116,7 @@
       "dateModified": null
     },
     {
-      "id": "52844",
+      "id": "3",
       "mealName": "Lasagne",
       "category": "Pasta",
       "area": "Italian",
@@ -216,86 +216,7 @@
       "dateModified": null
     },
     {
-      "id": "53311",
-      "mealName": "Borsch",
-      "category": "Beef",
-      "area": "Ukrainian",
-      "country": "Ukraine",
-      "instructions": "step 1\r\nTo make the stock, put the meat, whole onion, bay leaf and 2 litres of lightly salted cold water in a large saucepan. Cook over a very low heat for 1 hr 30 mins or until the beef shin is soft and falls apart easily – this can take up to 3 hrs. Skim off the scum with a spoon from time to time. Break up any larger pieces of beef into the broth, remove the whole onion and discard.\r\n\r\nstep 2\r\nAdd the potatoes to the borscht, season well with salt and pepper and cook for 10-15 mins until tender. Meanwhile, heat the sunflower oil in a large, deep frying pan. Add the diced onion and carrot, and cook over a medium heat, stirring, until the carrot is soft and is about to start caramelising.\r\n\r\nstep 3\r\nAdd the beetroot and cook for around 5 mins, stirring occasionally. Add the red pepper, if using, and cook for another 2 mins, then add the tomatoes and prunes, stir, then increase the heat and boil to reduce slightly, before adding everything to the borscht.\r\n\r\nstep 4\r\nAdd the shredded cabbage and the kidney beans, and cook for 7-10 mins or until tender. Serve with a dollop of sour cream or crème fraîche, lots of chopped dill and some crusty bread.",
-      "mealThumb": "https://www.themealdb.com/images/media/meals/804v1j1764367088.jpg",
-      "ingredients": [
-        {
-          "name": "Beef Shin",
-          "measure_metric": "1kg"
-        },
-        {
-          "name": "Onion",
-          "measure_metric": "1"
-        },
-        {
-          "name": "Bay Leaf",
-          "measure_metric": "1"
-        },
-        {
-          "name": "Potatoes",
-          "measure_metric": "2.5kg"
-        },
-        {
-          "name": "Sunflower Oil",
-          "measure_metric": "2 tablespoons"
-        },
-        {
-          "name": "Onion",
-          "measure_metric": "1 Diced"
-        },
-        {
-          "name": "Carrots",
-          "measure_metric": "1"
-        },
-        {
-          "name": "Beetroot",
-          "measure_metric": "200g"
-        },
-        {
-          "name": "Red Pepper",
-          "measure_metric": "1 chopped"
-        },
-        {
-          "name": "Tinned Tomatos",
-          "measure_metric": "200g"
-        },
-        {
-          "name": "Prunes",
-          "measure_metric": "6"
-        },
-        {
-          "name": "White Cabbage",
-          "measure_metric": "1/2"
-        },
-        {
-          "name": "Kidney Beans",
-          "measure_metric": "400g"
-        },
-        {
-          "name": "Creme Fraiche",
-          "measure_metric": "100ml"
-        },
-        {
-          "name": "Dill",
-          "measure_metric": "Bunch"
-        },
-        {
-          "name": "Crusty Bread",
-          "measure_metric": "To serve"
-        }
-      ],
-      "source": "https://www.bbcgoodfood.com/recipes/borsch",
-      "imageSource": null,
-      "creativeCommonsConfirmed": null,
-      "dateModified": "2025-11-28 21:56:50"
-    },
-    {
-      "id": "53269",
+      "id": "4",
       "mealName": "Hummus",
       "category": "Side",
       "area": "Turkish",
@@ -330,7 +251,7 @@
       "dateModified": "2025-11-22 08:44:38"
     },
     {
-      "id": "53310",
+      "id": "5",
       "mealName": "Challah",
       "category": "Side",
       "area": "Polish",
@@ -369,54 +290,7 @@
       "dateModified": "2025-11-28 21:44:41"
     },
     {
-      "id": "53027",
-      "mealName": "Koshari",
-      "category": "Vegetarian",
-      "area": "Egyptian",
-      "country": "Egypt",
-      "instructions": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).\r\nNow, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you'll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.\r\nNow make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.\r\nCover the chickpeas and warm in the microwave briefly before serving.\r\n\r\nMake the crispy onion topping. \r\n\r\nSprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.\r\nIn a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes).",
-      "mealThumb": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
-      "ingredients": [
-        {
-          "name": "Brown Lentils",
-          "measure_metric": "1 1/2 cups"
-        },
-        {
-          "name": "Rice",
-          "measure_metric": "1 1/2 cups"
-        },
-        {
-          "name": "Coriander",
-          "measure_metric": "1/2 tsp"
-        },
-        {
-          "name": "Macaroni",
-          "measure_metric": "2 cups"
-        },
-        {
-          "name": "Chickpeas",
-          "measure_metric": "Can"
-        },
-        {
-          "name": "Onion",
-          "measure_metric": "1 large"
-        },
-        {
-          "name": "Salt",
-          "measure_metric": "Sprinkling"
-        },
-        {
-          "name": "Vegetable Oil",
-          "measure_metric": "1/2 cup"
-        }
-      ],
-      "source": "https://www.themediterraneandish.com/egyptian-koshari-recipe/",
-      "imageSource": null,
-      "creativeCommonsConfirmed": null,
-      "dateModified": null
-    },
-    {
-      "id": "53153",
+      "id": "6",
       "mealName": "Churros",
       "category": "Dessert",
       "area": "Spanish",
@@ -483,7 +357,7 @@
       "dateModified": "2025-11-15 23:26:44"
     },
     {
-      "id": "52906",
+      "id": "7",
       "mealName": "Flamiche",
       "category": "Vegetarian",
       "area": "France",
@@ -550,90 +424,7 @@
       "dateModified": null
     },
     {
-      "id": "53238",
-      "mealName": "Beef pho",
-      "category": "Beef",
-      "area": "Vietnamese",
-      "country": "Vietnam",
-      "instructions": "step 1\r\nTip the beef stock along with 500ml of water into a large saucepan. Sit the onion and ginger in a frying pan over a high heat and char on all sides, around 3-5 mins (you can also do this under your grill). Once charred, add to the beef stock. In the same pan, toast the spices for 2-3 mins and once they begin to smell fragrant, add them to the beef stock as well. Bring the stock to the boil, then turn to a simmer and cook for 30mins before straining.\r\n\r\nstep 2\r\nMeanwhile, cut the fat from the steak and wrap in cling film, then put into the freezer for 15 mins – this will make your steak really easy to slice! Slice it thinly, then cover with cling film again and pop into the fridge.\r\n\r\nstep 3\r\nTaste the beef stock and use the palm sugar, fish sauce and soy to season. Cook the noodles according to package instructions and split between two bowls, topping each with the sliced beef. Bring the stock to the boil and then pour into the bowls (the heat will cook the beef). Top each with the spring onions, chilli slices and herbs. Serve with the lime wedges to squeeze over.",
-      "mealThumb": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
-      "ingredients": [
-        {
-          "name": "Beef Stock",
-          "measure_metric": "1 L"
-        },
-        {
-          "name": "Onion",
-          "measure_metric": "1 large"
-        },
-        {
-          "name": "Ginger",
-          "measure_metric": "1 Large Chopped"
-        },
-        {
-          "name": "Cinnamon Stick",
-          "measure_metric": "1"
-        },
-        {
-          "name": "Star Anise",
-          "measure_metric": "2"
-        },
-        {
-          "name": "Coriander Seeds",
-          "measure_metric": "1 tsp"
-        },
-        {
-          "name": "Cloves",
-          "measure_metric": "1/2 teaspoon"
-        },
-        {
-          "name": "Sirloin steak",
-          "measure_metric": "225g"
-        },
-        {
-          "name": "Palm Sugar",
-          "measure_metric": "1 tsp"
-        },
-        {
-          "name": "Fish Sauce",
-          "measure_metric": "1 tablespoon"
-        },
-        {
-          "name": "Soy Sauce",
-          "measure_metric": "1 ½ tbsp"
-        },
-        {
-          "name": "Rice Noodles",
-          "measure_metric": "200g"
-        },
-        {
-          "name": "Spring Onions",
-          "measure_metric": "2 sliced"
-        },
-        {
-          "name": "Birds-eye Chillies",
-          "measure_metric": "1 small"
-        },
-        {
-          "name": "Basil",
-          "measure_metric": "Handful"
-        },
-        {
-          "name": "Coriander",
-          "measure_metric": "Handful"
-        },
-        {
-          "name": "Lime",
-          "measure_metric": "1"
-        }
-      ],
-      "source": "https://www.bbcgoodfood.com/recipes/beef-pho",
-      "imageSource": null,
-      "creativeCommonsConfirmed": null,
-      "dateModified": "2025-11-21 22:40:23"
-    },
-    {
-      "id": "53191",
+      "id": "8",
       "mealName": "Pad Thai",
       "category": "Seafood",
       "area": "Thai",
@@ -700,7 +491,7 @@
       "dateModified": "2025-11-17 07:57:50"
     },
     {
-      "id": "52802",
+      "id": "9",
       "mealName": "Fish pie",
       "category": "Seafood",
       "area": "British",
@@ -775,7 +566,7 @@
       "dateModified": null
     },
     {
-      "id": "53028",
+      "id": "10",
       "mealName": "Shawarma",
       "category": "Chicken",
       "area": "Egyptian",
@@ -850,7 +641,7 @@
       "dateModified": null
     },
     {
-      "id": "53065",
+      "id": "11",
       "mealName": "Sushi",
       "category": "Seafood",
       "area": "Japanese",
@@ -893,7 +684,7 @@
       "dateModified": null
     },
     {
-      "id": "53216",
+      "id": "12",
       "mealName": "Knafeh",
       "category": "Dessert",
       "area": "Saudi Arabian",
@@ -956,7 +747,7 @@
       "dateModified": "2025-11-19 23:10:17"
     },
     {
-      "id": "53311",
+      "id": "13",
       "mealName": "Borsch",
       "category": "Beef",
       "area": "Ukrainian",
@@ -1035,7 +826,7 @@
       "dateModified": "2025-11-28 21:56:50"
     },
     {
-      "id": "53269",
+      "id": "14",
       "mealName": "Hummus",
       "category": "Side",
       "area": "Turkish",
@@ -1070,7 +861,7 @@
       "dateModified": "2025-11-22 08:44:38"
     },
     {
-      "id": "53310",
+      "id": "15",
       "mealName": "Challah",
       "category": "Side",
       "area": "Polish",
@@ -1109,7 +900,7 @@
       "dateModified": "2025-11-28 21:44:41"
     },
     {
-      "id": "53027",
+      "id": "16",
       "mealName": "Koshari",
       "category": "Vegetarian",
       "area": "Egyptian",
@@ -1156,7 +947,7 @@
       "dateModified": null
     },
     {
-      "id": "53153",
+      "id": "17",
       "mealName": "Churros",
       "category": "Dessert",
       "area": "Spanish",
@@ -1223,7 +1014,7 @@
       "dateModified": "2025-11-15 23:26:44"
     },
     {
-      "id": "52906",
+      "id": "18",
       "mealName": "Flamiche",
       "category": "Vegetarian",
       "area": "France",
@@ -1290,7 +1081,7 @@
       "dateModified": null
     },
     {
-      "id": "53238",
+      "id": "19",
       "mealName": "Beef pho",
       "category": "Beef",
       "area": "Vietnamese",
@@ -1373,7 +1164,7 @@
       "dateModified": "2025-11-21 22:40:23"
     },
     {
-      "id": "53191",
+      "id": "20",
       "mealName": "Pad Thai",
       "category": "Seafood",
       "area": "Thai",
@@ -1440,7 +1231,7 @@
       "dateModified": "2025-11-17 07:57:50"
     },
     {
-      "id": "52802",
+      "id": "21",
       "mealName": "Fish pie",
       "category": "Seafood",
       "area": "British",
@@ -1515,7 +1306,7 @@
       "dateModified": null
     },
     {
-      "id": "53028",
+      "id": "22",
       "mealName": "Shawarma",
       "category": "Chicken",
       "area": "Egyptian",
@@ -1590,7 +1381,7 @@
       "dateModified": null
     },
     {
-      "id": "52963",
+      "id": "23",
       "mealName": "Shakshuka",
       "category": "Vegetarian",
       "area": "Egyptian",
@@ -1641,7 +1432,7 @@
       "dateModified": null
     },
     {
-      "id": "53052",
+      "id": "24",
       "mealName": "Roti john",
       "category": "Beef",
       "area": "Malaysian",
@@ -1688,7 +1479,7 @@
       "dateModified": null
     },
     {
-      "id": "53136",
+      "id": "25",
       "mealName": "Choripán",
       "category": "Pork",
       "area": "Argentina",
@@ -1715,7 +1506,7 @@
       "dateModified": "2025-11-13 11:14:09"
     },
     {
-      "id": "53029",
+      "id": "26",
       "mealName": "Mulukhiyah",
       "category": "Beef",
       "area": "Egyptian",
@@ -1758,7 +1549,7 @@
       "dateModified": null
     },
     {
-      "id": "52781",
+      "id": "27",
       "mealName": "Irish stew",
       "category": "Beef",
       "area": "Irish",
@@ -1825,7 +1616,7 @@
       "dateModified": null
     },
     {
-      "id": "53215",
+      "id": "28",
       "mealName": "Shakshouka",
       "category": "Miscellaneous",
       "area": "Saudi Arabian",
@@ -1864,7 +1655,7 @@
       "dateModified": "2025-11-19 22:54:39"
     },
     {
-      "id": "53043",
+      "id": "29",
       "mealName": "Fish fofos",
       "category": "Seafood",
       "area": "Portuguese",
@@ -1927,7 +1718,7 @@
       "dateModified": null
     },
     {
-      "id": "53433",
+      "id": "30",
       "mealName": "Mango chow",
       "category": "Side",
       "area": null,
@@ -1969,6 +1760,5 @@
       "creativeCommonsConfirmed": null,
       "dateModified": "2026-05-29 21:47:34"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
