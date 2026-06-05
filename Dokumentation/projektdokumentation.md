@@ -100,9 +100,7 @@ Akzeptanzkriterien:
 
 ## 3. Klassendiagramm
 
-> Diagramm erstellt mit draw.io — siehe Bild unten
-
-![Klassendiagramm](./Bildschirme-der-my-meal-db.drawio.png)
+![](/home/mike/.config/marktext/images/2026-06-05-15-31-20-Klassendiagram.jpg)
 
 ### Klasse: Meal
 
