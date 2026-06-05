@@ -9,14 +9,46 @@
       "instructions": "Bring a large pot of water to a boil. Add kosher salt to the boiling water, then add the pasta. Cook according to the package instructions, about 9 minutes.\r\nIn a large skillet over medium-high heat, add the olive oil and heat until the oil starts to shimmer. Add the garlic and cook, stirring, until fragrant, 1 to 2 minutes. Add the chopped tomatoes, red chile flakes, Italian seasoning and salt and pepper to taste. Bring to a boil and cook for 5 minutes. Remove from the heat and add the chopped basil.\r\nDrain the pasta and add it to the sauce. Garnish with Parmigiano-Reggiano flakes and more basil and serve warm.",
       "mealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
       "ingredients": [
-        {"name": "penne rigate", "measure_imperial": "1 pound", "measure_metric": "450g"},
-        {"name": "olive oil", "measure_imperial": "1/4 cup", "measure_metric": "60ml"},
-        {"name": "garlic", "measure_imperial": "3 cloves", "measure_metric": "3 cloves"},
-        {"name": "chopped tomatoes", "measure_imperial": "1 tin (14 oz)", "measure_metric": "1 tin (400g)"},
-        {"name": "red chile flakes", "measure_imperial": "1/2 teaspoon", "measure_metric": "2.5ml"},
-        {"name": "italian seasoning", "measure_imperial": "1/2 teaspoon", "measure_metric": "2.5ml"},
-        {"name": "basil", "measure_imperial": "6 leaves", "measure_metric": "6 leaves"},
-        {"name": "Parmigiano-Reggiano", "measure_imperial": "sprinkling", "measure_metric": "sprinkling"}
+        {
+          "name": "penne rigate",
+          "measure_imperial": "1 pound",
+          "measure_metric": "450g"
+        },
+        {
+          "name": "olive oil",
+          "measure_imperial": "1/4 cup",
+          "measure_metric": "60ml"
+        },
+        {
+          "name": "garlic",
+          "measure_imperial": "3 cloves",
+          "measure_metric": "3 cloves"
+        },
+        {
+          "name": "chopped tomatoes",
+          "measure_imperial": "1 tin (14 oz)",
+          "measure_metric": "1 tin (400g)"
+        },
+        {
+          "name": "red chile flakes",
+          "measure_imperial": "1/2 teaspoon",
+          "measure_metric": "2.5ml"
+        },
+        {
+          "name": "italian seasoning",
+          "measure_imperial": "1/2 teaspoon",
+          "measure_metric": "2.5ml"
+        },
+        {
+          "name": "basil",
+          "measure_imperial": "6 leaves",
+          "measure_metric": "6 leaves"
+        },
+        {
+          "name": "Parmigiano-Reggiano",
+          "measure_imperial": "sprinkling",
+          "measure_metric": "sprinkling"
+        }
       ],
       "source": "https://www.bonappetit.com/recipe/spicy-arrabbiata-penne",
       "imageSource": null,
@@ -29,19 +61,54 @@
       "category": "Chicken",
       "area": "Japanese",
       "country": "Japan",
-      "instructions": "Preheat oven to 350\u00b0 F. Spray a 9x13-inch baking pan with non-stick spray.\r\nCombine soy sauce, 1/2 cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling.\r\nMeanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once the sauce is boiling, add the corn starch mixture and stir to combine. Cook until the sauce starts to thicken then remove from heat.\r\nPlace the chicken breasts in the prepared pan. Pour one cup of the sauce over the chicken. Place in oven and bake 35 minutes or until cooked through. Remove from oven and shred the chicken in the pan using two forks.\r\nAdd the cooked rice and remaining sauce to the pan and mix well. Uncover and cook in the oven for another 15 minutes. Top with the green onions and sesame seeds.",
+      "instructions": "Preheat oven to 350° F. Spray a 9x13-inch baking pan with non-stick spray.\r\nCombine soy sauce, 1/2 cup water, brown sugar, ginger and garlic in a small saucepan and cover. Bring to a boil over medium heat. Remove lid and cook for one minute once boiling.\r\nMeanwhile, stir together the corn starch and 2 tablespoons of water in a separate dish until smooth. Once the sauce is boiling, add the corn starch mixture and stir to combine. Cook until the sauce starts to thicken then remove from heat.\r\nPlace the chicken breasts in the prepared pan. Pour one cup of the sauce over the chicken. Place in oven and bake 35 minutes or until cooked through. Remove from oven and shred the chicken in the pan using two forks.\r\nAdd the cooked rice and remaining sauce to the pan and mix well. Uncover and cook in the oven for another 15 minutes. Top with the green onions and sesame seeds.",
       "mealThumb": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
-
       "ingredients": [
-        {"name": "soy sauce", "measure_imperial": "3/4 cup", "measure_metric": "175ml"},
-        {"name": "water", "measure_imperial": "1/2 cup", "measure_metric": "120ml"},
-        {"name": "brown sugar", "measure_imperial": "1/4 cup", "measure_metric": "50g"},
-        {"name": "ground ginger", "measure_imperial": "1/2 teaspoon", "measure_metric": "2.5ml"},
-        {"name": "minced garlic", "measure_imperial": "1/2 teaspoon", "measure_metric": "2.5ml"},
-        {"name": "cornstarch", "measure_imperial": "2 tablespoons", "measure_metric": "15g"},
-        {"name": "chicken breasts", "measure_imperial": "2", "measure_metric": "2"},
-        {"name": "stir-fry vegetables", "measure_imperial": "1 bag (12 oz)", "measure_metric": "1 bag (340g)"},
-        {"name": "brown rice", "measure_imperial": "3 cups", "measure_metric": "600g"}
+        {
+          "name": "soy sauce",
+          "measure_imperial": "3/4 cup",
+          "measure_metric": "175ml"
+        },
+        {
+          "name": "water",
+          "measure_imperial": "1/2 cup",
+          "measure_metric": "120ml"
+        },
+        {
+          "name": "brown sugar",
+          "measure_imperial": "1/4 cup",
+          "measure_metric": "50g"
+        },
+        {
+          "name": "ground ginger",
+          "measure_imperial": "1/2 teaspoon",
+          "measure_metric": "2.5ml"
+        },
+        {
+          "name": "minced garlic",
+          "measure_imperial": "1/2 teaspoon",
+          "measure_metric": "2.5ml"
+        },
+        {
+          "name": "cornstarch",
+          "measure_imperial": "2 tablespoons",
+          "measure_metric": "15g"
+        },
+        {
+          "name": "chicken breasts",
+          "measure_imperial": "2",
+          "measure_metric": "2"
+        },
+        {
+          "name": "stir-fry vegetables",
+          "measure_imperial": "1 bag (12 oz)",
+          "measure_metric": "1 bag (340g)"
+        },
+        {
+          "name": "brown rice",
+          "measure_imperial": "3 cups",
+          "measure_metric": "600g"
+        }
       ],
       "source": null,
       "imageSource": null,
@@ -54,31 +121,1854 @@
       "category": "Pasta",
       "area": "Italian",
       "country": "Italy",
-      "instructions": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.\r\nAdd the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.\r\nStir in the tomato pur\u00e9e and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water and add to the pan. Add the dried oregano and season well with salt and pepper. Bring to a simmer, then cover with a lid and cook for 30 mins.\r\nTo make the white sauce, melt the butter in a saucepan, stir in the flour and cook for 1 min. Gradually whisk in the milk a little at a time to get a lump-free sauce. Simmer gently for about 5 mins, stirring regularly. Season with a little nutmeg, salt and pepper.\r\nPreheat the oven to 200\u00b0C/180\u00b0C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the ovenproof dish. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit. Ladle over more ragu sauce, then cover with more pasta. Repeat the layers once or twice more. Pour over the white sauce and top with the grated Parmesan and mozzarella.\r\nBake in the preheated oven for 25-30 mins until golden and bubbling.",
+      "instructions": "Heat the oil in a large saucepan. Use kitchen scissors to snip the bacon into small pieces, or use a sharp knife to chop it on a chopping board. Add the bacon to the pan and cook for just a few mins until starting to turn golden. Add the onion, celery and carrot, and cook over a medium heat for 5 mins, stirring occasionally, until softened.\r\nAdd the garlic and cook for 1 min, then tip in the mince and cook, stirring and breaking it up with a wooden spoon, for about 6 mins until browned all over.\r\nStir in the tomato purée and cook for 1 min, mixing in well with the beef and vegetables. Tip in the chopped tomatoes. Fill each can half full with water and add to the pan. Add the dried oregano and season well with salt and pepper. Bring to a simmer, then cover with a lid and cook for 30 mins.\r\nTo make the white sauce, melt the butter in a saucepan, stir in the flour and cook for 1 min. Gradually whisk in the milk a little at a time to get a lump-free sauce. Simmer gently for about 5 mins, stirring regularly. Season with a little nutmeg, salt and pepper.\r\nPreheat the oven to 200°C/180°C fan/gas 6. To assemble the lasagne, ladle a little of the ragu sauce into the bottom of the ovenproof dish. Place 2 sheets of lasagne on top of the sauce overlapping to make it fit. Ladle over more ragu sauce, then cover with more pasta. Repeat the layers once or twice more. Pour over the white sauce and top with the grated Parmesan and mozzarella.\r\nBake in the preheated oven for 25-30 mins until golden and bubbling.",
       "mealThumb": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
       "ingredients": [
-        {"name": "olive oil", "measure_imperial": "1 tablespoon", "measure_metric": "15ml"},
-        {"name": "bacon", "measure_imperial": "2 strips", "measure_metric": "2 strips"},
-        {"name": "onion", "measure_imperial": "1 finely chopped", "measure_metric": "1 finely chopped"},
-        {"name": "celery", "measure_imperial": "1 stick", "measure_metric": "1 stick"},
-        {"name": "carrot", "measure_imperial": "1 medium", "measure_metric": "1 medium"},
-        {"name": "garlic", "measure_imperial": "2 cloves", "measure_metric": "2 cloves"},
-        {"name": "minced beef", "measure_imperial": "1.1 lbs", "measure_metric": "500g"},
-        {"name": "tomato pur\u00e9e", "measure_imperial": "1 tablespoon", "measure_metric": "15ml"},
-        {"name": "chopped tomatoes", "measure_imperial": "2 tins (28 oz)", "measure_metric": "2 tins (800g)"},
-        {"name": "dried oregano", "measure_imperial": "1 teaspoon", "measure_metric": "5ml"},
-        {"name": "lasagne sheets", "measure_imperial": "8", "measure_metric": "8"},
-        {"name": "butter", "measure_imperial": "1 oz", "measure_metric": "30g"},
-        {"name": "plain flour", "measure_imperial": "1 oz", "measure_metric": "30g"},
-        {"name": "milk", "measure_imperial": "2.5 cups", "measure_metric": "600ml"},
-        {"name": "nutmeg", "measure_imperial": "pinch", "measure_metric": "pinch"},
-        {"name": "parmesan", "measure_imperial": "1.75 oz", "measure_metric": "50g"},
-        {"name": "mozzarella", "measure_imperial": "4.4 oz", "measure_metric": "125g"}
+        {
+          "name": "olive oil",
+          "measure_imperial": "1 tablespoon",
+          "measure_metric": "15ml"
+        },
+        {
+          "name": "bacon",
+          "measure_imperial": "2 strips",
+          "measure_metric": "2 strips"
+        },
+        {
+          "name": "onion",
+          "measure_imperial": "1 finely chopped",
+          "measure_metric": "1 finely chopped"
+        },
+        {
+          "name": "celery",
+          "measure_imperial": "1 stick",
+          "measure_metric": "1 stick"
+        },
+        {
+          "name": "carrot",
+          "measure_imperial": "1 medium",
+          "measure_metric": "1 medium"
+        },
+        {
+          "name": "garlic",
+          "measure_imperial": "2 cloves",
+          "measure_metric": "2 cloves"
+        },
+        {
+          "name": "minced beef",
+          "measure_imperial": "1.1 lbs",
+          "measure_metric": "500g"
+        },
+        {
+          "name": "tomato purée",
+          "measure_imperial": "1 tablespoon",
+          "measure_metric": "15ml"
+        },
+        {
+          "name": "chopped tomatoes",
+          "measure_imperial": "2 tins (28 oz)",
+          "measure_metric": "2 tins (800g)"
+        },
+        {
+          "name": "dried oregano",
+          "measure_imperial": "1 teaspoon",
+          "measure_metric": "5ml"
+        },
+        {
+          "name": "lasagne sheets",
+          "measure_imperial": "8",
+          "measure_metric": "8"
+        },
+        {
+          "name": "butter",
+          "measure_imperial": "1 oz",
+          "measure_metric": "30g"
+        },
+        {
+          "name": "plain flour",
+          "measure_imperial": "1 oz",
+          "measure_metric": "30g"
+        },
+        {
+          "name": "milk",
+          "measure_imperial": "2.5 cups",
+          "measure_metric": "600ml"
+        },
+        {
+          "name": "nutmeg",
+          "measure_imperial": "pinch",
+          "measure_metric": "pinch"
+        },
+        {
+          "name": "parmesan",
+          "measure_imperial": "1.75 oz",
+          "measure_metric": "50g"
+        },
+        {
+          "name": "mozzarella",
+          "measure_imperial": "4.4 oz",
+          "measure_metric": "125g"
+        }
       ],
       "source": "https://www.bbcgoodfood.com/recipes/lasagne",
       "imageSource": null,
       "creativeCommonsConfirmed": null,
       "dateModified": null
+    },
+    {
+      "id": "53311",
+      "mealName": "Borsch",
+      "category": "Beef",
+      "area": "Ukrainian",
+      "country": "Ukraine",
+      "instructions": "step 1\r\nTo make the stock, put the meat, whole onion, bay leaf and 2 litres of lightly salted cold water in a large saucepan. Cook over a very low heat for 1 hr 30 mins or until the beef shin is soft and falls apart easily – this can take up to 3 hrs. Skim off the scum with a spoon from time to time. Break up any larger pieces of beef into the broth, remove the whole onion and discard.\r\n\r\nstep 2\r\nAdd the potatoes to the borscht, season well with salt and pepper and cook for 10-15 mins until tender. Meanwhile, heat the sunflower oil in a large, deep frying pan. Add the diced onion and carrot, and cook over a medium heat, stirring, until the carrot is soft and is about to start caramelising.\r\n\r\nstep 3\r\nAdd the beetroot and cook for around 5 mins, stirring occasionally. Add the red pepper, if using, and cook for another 2 mins, then add the tomatoes and prunes, stir, then increase the heat and boil to reduce slightly, before adding everything to the borscht.\r\n\r\nstep 4\r\nAdd the shredded cabbage and the kidney beans, and cook for 7-10 mins or until tender. Serve with a dollop of sour cream or crème fraîche, lots of chopped dill and some crusty bread.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/804v1j1764367088.jpg",
+      "ingredients": [
+        {
+          "name": "Beef Shin",
+          "measure_metric": "1kg"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Bay Leaf",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Potatoes",
+          "measure_metric": "2.5kg"
+        },
+        {
+          "name": "Sunflower Oil",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1 Diced"
+        },
+        {
+          "name": "Carrots",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Beetroot",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Red Pepper",
+          "measure_metric": "1 chopped"
+        },
+        {
+          "name": "Tinned Tomatos",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Prunes",
+          "measure_metric": "6"
+        },
+        {
+          "name": "White Cabbage",
+          "measure_metric": "1/2"
+        },
+        {
+          "name": "Kidney Beans",
+          "measure_metric": "400g"
+        },
+        {
+          "name": "Creme Fraiche",
+          "measure_metric": "100ml"
+        },
+        {
+          "name": "Dill",
+          "measure_metric": "Bunch"
+        },
+        {
+          "name": "Crusty Bread",
+          "measure_metric": "To serve"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/borsch",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-28 21:56:50"
+    },
+    {
+      "id": "53269",
+      "mealName": "Hummus",
+      "category": "Side",
+      "area": "Turkish",
+      "country": "Turkey",
+      "instructions": "step 1\r\nDrain the chickpeas into a sieve set over a bowl or jug to catch the liquid. Tip the chickpeas, tahini, garlic and yogurt into a food processor or blender and whizz to smooth.\r\n\r\nstep 2\r\nWhizz in a tbsp of the chickpea liquid at a time until you have a nice consistency, then scrape into a bowl.\r\n\r\nstep 3\r\nStir in a squeeze of lemon juice and season to taste.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "measure_metric": "400g"
+        },
+        {
+          "name": "Tahini Paste",
+          "measure_metric": "1 tablespoon"
+        },
+        {
+          "name": "Garlic Clove",
+          "measure_metric": "1 large"
+        },
+        {
+          "name": "Greek Yogurt",
+          "measure_metric": "3 tablespoons"
+        },
+        {
+          "name": "Lemon",
+          "measure_metric": "Juice of half"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/easy-hummus-recipe",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-22 08:44:38"
+    },
+    {
+      "id": "53310",
+      "mealName": "Challah",
+      "category": "Side",
+      "area": "Polish",
+      "country": "Poland",
+      "instructions": "step 1\r\nCombine the yeast, a pinch of the sugar and a couple tablespoons of lukewarm water in a small bowl. Stir to dissolve the yeast, then leave for 10 mins until foamy.\r\n\r\nstep 2\r\nMeanwhile, combine the flour, the remaining sugar and 2 tsp fine salt in a large bowl. Make a well in the centre, then add half the beaten egg, the yeast mixture and the oil. Pour in 200ml lukewarm water (it should feel slightly warm to the touch) and stir with a spoon, then mix using one hand, keeping the other clean while you bring the dough together. If there are a lot of very dry bits, gradually add a little water to just bring it together – you don't want it to get too wet and sticky. The dough should be moist, but not soggy.\r\n\r\nstep 3\r\nOnce the dough has come together, turn it out onto a lightly floured surface. Knead using both hands for 10 mins until smooth and a bit springy. If it gets very sticky, add a very small amount of flour – as little as possible. A dough scraper is useful if the dough is sticking to the work surface. Stretch the sides of the dough down and pull together to form a ball. Lightly oil a bowl, then lightly roll the dough ball around the bowl so it's coated in the oil. Cover with a clean tea towel and leave in a warm place for 1 hr, or until dough has doubled in size.\r\n\r\nstep 4\r\nLine a baking sheet with baking parchment. Turn the dough out onto a clean work surface and divide into three equal pieces, weighing for accuracy, if you like. Roll each piece into a long sausage shape about 25cm long, tapering them slightly at both ends. Lay the pieces out in front of you, parallel to one another with a couple centimetres between each. Bring the sausages together at the top end, then plait them down the length, tucking in the ends when you reach the bottom. Carefully transfer the loaf to the prepared baking sheet and loosely cover with a clean tea towel. Leave to rise until puffy and billowy, about 40 mins.\r\n\r\nstep 5\r\nMeanwhile, heat the oven to 200C/180C fan/gas 6. Gently brush the rest of the beaten egg all over the challah, getting it into all the crevices, and sprinkle with the poppy or sesame seeds, if using. Bake on a middle shelf of the oven for 25-30 mins, until the loaf is golden brown underneath and sounds hollow when tapped. Check after about 15 mins – if the top of the loaf has started to get too dark, cover it with foil. Leave to cool on a wire rack, then serve.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/fm01ky1764366365.jpg",
+      "ingredients": [
+        {
+          "name": "Strong white bread flour",
+          "measure_metric": "500g"
+        },
+        {
+          "name": "Caster Sugar",
+          "measure_metric": "70g"
+        },
+        {
+          "name": "Yeast",
+          "measure_metric": "10g"
+        },
+        {
+          "name": "Egg",
+          "measure_metric": "2 Beaten"
+        },
+        {
+          "name": "Sunflower Oil",
+          "measure_metric": "70ml"
+        },
+        {
+          "name": "Poppy Seeds",
+          "measure_metric": "1 tablespoon"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/challah",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-28 21:44:41"
+    },
+    {
+      "id": "53027",
+      "mealName": "Koshari",
+      "category": "Vegetarian",
+      "area": "Egyptian",
+      "country": "Egypt",
+      "instructions": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).\r\nNow, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you'll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.\r\nNow make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.\r\nCover the chickpeas and warm in the microwave briefly before serving.\r\n\r\nMake the crispy onion topping. \r\n\r\nSprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.\r\nIn a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes).",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+      "ingredients": [
+        {
+          "name": "Brown Lentils",
+          "measure_metric": "1 1/2 cups"
+        },
+        {
+          "name": "Rice",
+          "measure_metric": "1 1/2 cups"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "1/2 tsp"
+        },
+        {
+          "name": "Macaroni",
+          "measure_metric": "2 cups"
+        },
+        {
+          "name": "Chickpeas",
+          "measure_metric": "Can"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1 large"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "Sprinkling"
+        },
+        {
+          "name": "Vegetable Oil",
+          "measure_metric": "1/2 cup"
+        }
+      ],
+      "source": "https://www.themediterraneandish.com/egyptian-koshari-recipe/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53153",
+      "mealName": "Churros",
+      "category": "Dessert",
+      "area": "Spanish",
+      "country": "Spain",
+      "instructions": "step 1\r\nBoil the kettle, then measure_metric 300ml boiling water into a jug and add the melted butter and vanilla extract. Sift the flour and baking powder into a big mixing bowl with a big pinch of salt. Make a well in the centre, then pour in the contents of the jug and very quickly beat into the flour with a wooden spoon until lump-free. Rest for 10-15 mins while you make the sauce.\r\n\r\nstep 2\r\nPut all the sauce ingredients into a pan and gently melt together, stirring occasionally until you have a smooth shiny sauce. Keep warm on a low heat.\r\n\r\nstep 3\r\nFill a large deep saucepan one-third full of oil. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Heat until a cube of bread browns in 45 seconds to 1 min. Cover a tray with kitchen paper and mix the caster sugar and cinnamon together.\r\n\r\nstep 4\r\nFit a star nozzle to a piping bag – 1.5-2cm wide is a good size. Fill with the rested dough, then pipe 2-3 strips directly into the pan, snipping off each dough strip with a pair of kitchen scissors. Fry until golden brown and crisp. Be very careful here – if air bubbles form in the churros they can explode, especially if the oil overheats or you use old flour. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Keep children out of the kitchen and protect yourself by wearing long sleeves and eye protection, and keeping your face away from the pan.\r\n\r\nstep 5\r\nOnce the churros are crisp and golden brown, remove them from the oil with a slotted spoon and drain on the kitchen paper-lined tray. Carry on cooking the rest of the dough in batches, sprinkling the cooked churros with some cinnamon sugar as you go. When you've cooked all the churros, toss with any remaining cinnamon sugar and serve with the chocolate sauce, for dipping.\r\nTo see a video of how to prepare churros, take a look at our churros ice cream sandwich recipe.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg",
+      "ingredients": [
+        {
+          "name": "Butter",
+          "measure_metric": "50g"
+        },
+        {
+          "name": "Vanilla Extract",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Plain Flour",
+          "measure_metric": "250g"
+        },
+        {
+          "name": "Baking Powder",
+          "measure_metric": "1 teaspoon"
+        },
+        {
+          "name": "Sunflower Oil",
+          "measure_metric": "1 L"
+        },
+        {
+          "name": "Bread",
+          "measure_metric": "2 chopped"
+        },
+        {
+          "name": "Dark Chocolate",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Double Cream",
+          "measure_metric": "100ml"
+        },
+        {
+          "name": "Milk",
+          "measure_metric": "100ml"
+        },
+        {
+          "name": "Golden Syrup",
+          "measure_metric": "3 tablespoons"
+        },
+        {
+          "name": "Vanilla Extract",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Caster Sugar",
+          "measure_metric": "100g"
+        },
+        {
+          "name": "Cinnamon",
+          "measure_metric": "2 teaspoon"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/churros-chocolate-dipping-sauce",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-15 23:26:44"
+    },
+    {
+      "id": "52906",
+      "mealName": "Flamiche",
+      "category": "Vegetarian",
+      "area": "France",
+      "country": "France",
+      "instructions": "For the pastry, sift the flour and salt into the bowl of a food processor, add the butter and lard, then whizz together briefly until the mixture looks like fine breadcrumbs. Tip the mixture into a bowl, then stir in the cheese and enough of the water for the mixture to come together. Tip out onto a lightly floured surface and knead briefly until smooth. Roll out thinly and line a 23cm x 4cm loose-?bottomed fluted flan tin. Prick the base with a fork. Chill for 20 minutes.\r\n02.Melt the 75g butter in a saucepan over a low heat, then add the leeks and the salt. Cover and cook for ?10 minutes until soft. Uncover the pan, increase the heat and cook ?for 2 minutes, stirring occasionally, until the liquid has evaporated. Spoon onto a plate and leave to cool.\r\n03.Preheat the oven to 200°C/fan180°C/gas 6. Line the pastry case with baking paper and baking beans or rice and blind bake for 15-20 minutes until the edges are biscuit-coloured. Remove the paper and beans/rice and return the case to the oven for 7-10 minutes until the base is crisp and lightly golden. Remove and set aside. Reduce the oven temperature to 190°C/fan170°C/gas 5.\r\n04.Put the crème fraîche into a bowl with the whole egg, egg yolks and nutmeg. Lightly beat together, then season. Stir in the leeks. Spoon ?the mixture into the tart case and bake for 35-40 minutes until set ?and lightly golden. Remove from ?the oven and leave for 10 minutes. Take out of the tin and serve.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
+      "ingredients": [
+        {
+          "name": "Butter",
+          "measure_metric": "75g"
+        },
+        {
+          "name": "Leek",
+          "measure_metric": "1kg"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "½ tsp"
+        },
+        {
+          "name": "Creme Fraiche",
+          "measure_metric": "300ml"
+        },
+        {
+          "name": "Egg",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Egg Yolks",
+          "measure_metric": "3"
+        },
+        {
+          "name": "Nutmeg",
+          "measure_metric": "¼ teaspoon"
+        },
+        {
+          "name": "Plain Flour",
+          "measure_metric": "225g"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "½ tsp"
+        },
+        {
+          "name": "Butter",
+          "measure_metric": "60g"
+        },
+        {
+          "name": "Lard",
+          "measure_metric": "60g"
+        },
+        {
+          "name": "Cheddar Cheese",
+          "measure_metric": "50g"
+        },
+        {
+          "name": "Water",
+          "measure_metric": "2 tbs"
+        }
+      ],
+      "source": "http://www.deliciousmagazine.co.uk/recipes/flamiche-flemish-leek-tart/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53238",
+      "mealName": "Beef pho",
+      "category": "Beef",
+      "area": "Vietnamese",
+      "country": "Vietnam",
+      "instructions": "step 1\r\nTip the beef stock along with 500ml of water into a large saucepan. Sit the onion and ginger in a frying pan over a high heat and char on all sides, around 3-5 mins (you can also do this under your grill). Once charred, add to the beef stock. In the same pan, toast the spices for 2-3 mins and once they begin to smell fragrant, add them to the beef stock as well. Bring the stock to the boil, then turn to a simmer and cook for 30mins before straining.\r\n\r\nstep 2\r\nMeanwhile, cut the fat from the steak and wrap in cling film, then put into the freezer for 15 mins – this will make your steak really easy to slice! Slice it thinly, then cover with cling film again and pop into the fridge.\r\n\r\nstep 3\r\nTaste the beef stock and use the palm sugar, fish sauce and soy to season. Cook the noodles according to package instructions and split between two bowls, topping each with the sliced beef. Bring the stock to the boil and then pour into the bowls (the heat will cook the beef). Top each with the spring onions, chilli slices and herbs. Serve with the lime wedges to squeeze over.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+      "ingredients": [
+        {
+          "name": "Beef Stock",
+          "measure_metric": "1 L"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1 large"
+        },
+        {
+          "name": "Ginger",
+          "measure_metric": "1 Large Chopped"
+        },
+        {
+          "name": "Cinnamon Stick",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Star Anise",
+          "measure_metric": "2"
+        },
+        {
+          "name": "Coriander Seeds",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Cloves",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Sirloin steak",
+          "measure_metric": "225g"
+        },
+        {
+          "name": "Palm Sugar",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Fish Sauce",
+          "measure_metric": "1 tablespoon"
+        },
+        {
+          "name": "Soy Sauce",
+          "measure_metric": "1 ½ tbsp"
+        },
+        {
+          "name": "Rice Noodles",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Spring Onions",
+          "measure_metric": "2 sliced"
+        },
+        {
+          "name": "Birds-eye Chillies",
+          "measure_metric": "1 small"
+        },
+        {
+          "name": "Basil",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Lime",
+          "measure_metric": "1"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/beef-pho",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-21 22:40:23"
+    },
+    {
+      "id": "53191",
+      "mealName": "Pad Thai",
+      "category": "Seafood",
+      "area": "Thai",
+      "country": "Thailand",
+      "instructions": "step 1\r\nPut the noodles in a large heatproof bowl, pour boiling water over them and leave for 4 minutes, then drain and refresh under cold running water.\r\n\r\nstep 2\r\nPut the lime juice, cayenne, sugar and fish sauce in a bowl and mix well. Have all the other ingredients ready by the cooker.\r\n\r\nstep 3\r\nHeat the oil and fry the prawns until warmed through. Add the spring onions and noodles and toss around. Tip in the lime juice mixture, then stir in the beansprouts and half the peanuts and coriander. Cook for 1 minute until everything is heated through.\r\n\r\nstep 4\r\nPile into a large dish, scatter with the rest of the peanuts and coriander, and serve with lime wedges and sweet chilli sauce.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg",
+      "ingredients": [
+        {
+          "name": "Rice Noodles",
+          "measure_metric": "125g"
+        },
+        {
+          "name": "Lime",
+          "measure_metric": "Juice of 3"
+        },
+        {
+          "name": "Cayenne Pepper",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Muscovado Sugar",
+          "measure_metric": "2 teaspoons"
+        },
+        {
+          "name": "Fish Sauce",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Vegetable Oil",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Tiger Prawns",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Spring Onions",
+          "measure_metric": "4 finely sliced"
+        },
+        {
+          "name": "Bean Sprouts",
+          "measure_metric": "140g"
+        },
+        {
+          "name": "Peanuts",
+          "measure_metric": "25g"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Lime",
+          "measure_metric": "2"
+        },
+        {
+          "name": "sweet chilli sauce",
+          "measure_metric": "To serve"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/easy-pad-thai",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-17 07:57:50"
+    },
+    {
+      "id": "52802",
+      "mealName": "Fish pie",
+      "category": "Seafood",
+      "area": "British",
+      "country": "United Kingdom",
+      "instructions": "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.\r\n02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.\r\n03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.\r\n04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.\r\n05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+      "ingredients": [
+        {
+          "name": "Floury Potatoes",
+          "measure_metric": "900g"
+        },
+        {
+          "name": "Olive Oil",
+          "measure_metric": "2 tbsp"
+        },
+        {
+          "name": "Semi-skimmed Milk",
+          "measure_metric": "600ml"
+        },
+        {
+          "name": "White Fish Fillets",
+          "measure_metric": "800g"
+        },
+        {
+          "name": "Plain flour",
+          "measure_metric": "1 tbsp"
+        },
+        {
+          "name": "Nutmeg",
+          "measure_metric": "Grating"
+        },
+        {
+          "name": "Double Cream",
+          "measure_metric": "3 tbsp"
+        },
+        {
+          "name": "Jerusalem Artichokes",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Leek",
+          "measure_metric": "1 finely sliced"
+        },
+        {
+          "name": "Prawns",
+          "measure_metric": "200g peeled raw"
+        },
+        {
+          "name": "Parsley",
+          "measure_metric": "Large handful"
+        },
+        {
+          "name": "Dill",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Lemon",
+          "measure_metric": "Grated zest of 1"
+        },
+        {
+          "name": "Gruyère",
+          "measure_metric": "25g grated"
+        },
+        {
+          "name": "Lemon",
+          "measure_metric": "Juice of 1"
+        }
+      ],
+      "source": "",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53028",
+      "mealName": "Shawarma",
+      "category": "Chicken",
+      "area": "Egyptian",
+      "country": "Egypt",
+      "instructions": "Combine the marinade ingredients in a large ziplock bag (or bowl).\r\nAdd the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.\r\nMarinate overnight or up to 24 hours.\r\nCombine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).\r\nHeat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)\r\nPlace chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).\r\nRemove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.\r\nTO SERVE\r\nSlice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.\r\nTo make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "measure_metric": "1 kg"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Cumin",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Cardamom",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Cayenne Pepper",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Paprika",
+          "measure_metric": "2 tsp"
+        },
+        {
+          "name": "Lemon Juice",
+          "measure_metric": "2 tbs"
+        },
+        {
+          "name": "Olive Oil",
+          "measure_metric": "3 tbs"
+        },
+        {
+          "name": "Greek Yogurt",
+          "measure_metric": "1 cup"
+        },
+        {
+          "name": "Garlic Clove",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Cumin",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Lemon Juice",
+          "measure_metric": "Splash"
+        },
+        {
+          "name": "Lettuce",
+          "measure_metric": "Sliced"
+        },
+        {
+          "name": "Tomato",
+          "measure_metric": "Sliced"
+        },
+        {
+          "name": "Pita Bread",
+          "measure_metric": "6"
+        }
+      ],
+      "source": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53065",
+      "mealName": "Sushi",
+      "category": "Seafood",
+      "area": "Japanese",
+      "country": "Japan",
+      "instructions": "STEP 1\r\nTO MAKE SUSHI ROLLS: Pat out some rice. Lay a nori sheet on the mat, shiny-side down. Dip your hands in the vinegared water, then pat handfuls of rice on top in a 1cm thick layer, leaving the furthest edge from you clear.\r\n\r\nSTEP 2\r\nSpread over some Japanese mayonnaise. Use a spoon to spread out a thin layer of mayonnaise down the middle of the rice.\r\n\r\nSTEP 3\r\nAdd the filling. Get your child to top the mayonnaise with a line of their favourite fillings – here we've used tuna and cucumber.\r\n\r\nSTEP 4\r\nRoll it up. Lift the edge of the mat over the rice, applying a little pressure to keep everything in a tight roll.\r\n\r\nSTEP 5\r\nStick down the sides like a stamp. When you get to the edge without any rice, brush with a little water and continue to roll into a tight roll.\r\n\r\nSTEP 6\r\nWrap in cling film. Remove the mat and roll tightly in cling film before a grown-up cuts the sushi into thick slices, then unravel the cling film.\r\n\r\nSTEP 7\r\nTO MAKE PRESSED SUSHI: Layer over some smoked salmon. Line a loaf tin with cling film, then place a thin layer of smoked salmon inside on top of the cling film.\r\n\r\nSTEP 8\r\nCover with rice and press down. Press about 3cm of rice over the fish, fold the cling film over and press down as much as you can, using another tin if you have one.\r\n\r\nSTEP 9\r\nTip it out like a sandcastle. Turn block of sushi onto a chopping board. Get a grown-up to cut into fingers, then remove the cling film.\r\n\r\nSTEP 10\r\nTO MAKE SUSHI BALLS: Choose your topping. Get a small square of cling film and place a topping, like half a prawn or a small piece of smoked salmon, on it. Use damp hands to roll walnut-sized balls of rice and place on the topping.\r\n\r\nSTEP 11\r\nMake into tight balls. Bring the corners of the cling film together and tighten into balls by twisting it up, then unwrap and serve.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/g046bb1663960946.jpg",
+      "ingredients": [
+        {
+          "name": "Sushi Rice",
+          "measure_metric": "300ml"
+        },
+        {
+          "name": "Rice wine",
+          "measure_metric": "100ml"
+        },
+        {
+          "name": "Caster Sugar",
+          "measure_metric": "2 tbs"
+        },
+        {
+          "name": "Mayonnaise",
+          "measure_metric": "3 tbs"
+        },
+        {
+          "name": "Rice wine",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Soy Sauce",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Cucumber",
+          "measure_metric": "1"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/simple-sushi",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53216",
+      "mealName": "Knafeh",
+      "category": "Dessert",
+      "area": "Saudi Arabian",
+      "country": "Saudi Arabia",
+      "instructions": "1\r\nTake kanfhe in a bowl and roughly cut them. Pour melted butter, yellow food color and mix well with your hands.\r\nIn a separate bowl mix milk, cream cheese, sugar, cornstarch well.\r\n2\r\nTurn on the flame and boil the liquid, when it gets thick turn off the flame let it cool down a little bit.\r\nAdd mozzarella in it and mix it well.\r\nNow make a base with half of the kanfhe in a dish, gently press it to level the dough well.\r\nPour the cheese mixture on the top and level it with a spoon.\r\n3\r\nCover it with the other half of the kanfhe.\r\nPut the dish in a preheated oven at 200 degree for about 20-25 minutes.\r\nIt's ready when kunafa is golden and crunchy in the surface.\r\n4\r\nBoil water in a pan and dissolve sugar in it for 4–5 minutes. OR cook it until slightly thicken and keep on stirring. Add lemon juice with rose water, mix well.\r\nEvenly pour the syrup over the kunafa as soon as it comes out of the oven.\r\nYour kunafa is ready to serve.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/76nffj1763593933.jpg",
+      "ingredients": [
+        {
+          "name": "Knafeh",
+          "measure_metric": "400g"
+        },
+        {
+          "name": "Unsalted Butter",
+          "measure_metric": "6 tablespoons"
+        },
+        {
+          "name": "Yellow Food Colouring",
+          "measure_metric": "1 pinch"
+        },
+        {
+          "name": "Mozzarella",
+          "measure_metric": "1 cup"
+        },
+        {
+          "name": "Cream Cheese",
+          "measure_metric": "1/4 cup"
+        },
+        {
+          "name": "Milk",
+          "measure_metric": "1 1/2 cup"
+        },
+        {
+          "name": "Sugar",
+          "measure_metric": "4 tablespoons"
+        },
+        {
+          "name": "Corn Flour",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Sugar",
+          "measure_metric": "1 cup"
+        },
+        {
+          "name": "Water",
+          "measure_metric": "1 cup"
+        },
+        {
+          "name": "Rose water",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Lemon Juice",
+          "measure_metric": "1/2 teaspoon"
+        }
+      ],
+      "source": "https://cookpad.com/eng/recipes/24934496?ref=search&search_term=saudi+arabia",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-19 23:10:17"
+    },
+    {
+      "id": "53311",
+      "mealName": "Borsch",
+      "category": "Beef",
+      "area": "Ukrainian",
+      "country": "Ukraine",
+      "instructions": "step 1\r\nTo make the stock, put the meat, whole onion, bay leaf and 2 litres of lightly salted cold water in a large saucepan. Cook over a very low heat for 1 hr 30 mins or until the beef shin is soft and falls apart easily – this can take up to 3 hrs. Skim off the scum with a spoon from time to time. Break up any larger pieces of beef into the broth, remove the whole onion and discard.\r\n\r\nstep 2\r\nAdd the potatoes to the borscht, season well with salt and pepper and cook for 10-15 mins until tender. Meanwhile, heat the sunflower oil in a large, deep frying pan. Add the diced onion and carrot, and cook over a medium heat, stirring, until the carrot is soft and is about to start caramelising.\r\n\r\nstep 3\r\nAdd the beetroot and cook for around 5 mins, stirring occasionally. Add the red pepper, if using, and cook for another 2 mins, then add the tomatoes and prunes, stir, then increase the heat and boil to reduce slightly, before adding everything to the borscht.\r\n\r\nstep 4\r\nAdd the shredded cabbage and the kidney beans, and cook for 7-10 mins or until tender. Serve with a dollop of sour cream or crème fraîche, lots of chopped dill and some crusty bread.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/804v1j1764367088.jpg",
+      "ingredients": [
+        {
+          "name": "Beef Shin",
+          "measure_metric": "1kg"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Bay Leaf",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Potatoes",
+          "measure_metric": "2.5kg"
+        },
+        {
+          "name": "Sunflower Oil",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1 Diced"
+        },
+        {
+          "name": "Carrots",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Beetroot",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Red Pepper",
+          "measure_metric": "1 chopped"
+        },
+        {
+          "name": "Tinned Tomatos",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Prunes",
+          "measure_metric": "6"
+        },
+        {
+          "name": "White Cabbage",
+          "measure_metric": "1/2"
+        },
+        {
+          "name": "Kidney Beans",
+          "measure_metric": "400g"
+        },
+        {
+          "name": "Creme Fraiche",
+          "measure_metric": "100ml"
+        },
+        {
+          "name": "Dill",
+          "measure_metric": "Bunch"
+        },
+        {
+          "name": "Crusty Bread",
+          "measure_metric": "To serve"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/borsch",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-28 21:56:50"
+    },
+    {
+      "id": "53269",
+      "mealName": "Hummus",
+      "category": "Side",
+      "area": "Turkish",
+      "country": "Turkey",
+      "instructions": "step 1\r\nDrain the chickpeas into a sieve set over a bowl or jug to catch the liquid. Tip the chickpeas, tahini, garlic and yogurt into a food processor or blender and whizz to smooth.\r\n\r\nstep 2\r\nWhizz in a tbsp of the chickpea liquid at a time until you have a nice consistency, then scrape into a bowl.\r\n\r\nstep 3\r\nStir in a squeeze of lemon juice and season to taste.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/gpon5u1763801180.jpg",
+      "ingredients": [
+        {
+          "name": "Chickpeas",
+          "measure_metric": "400g"
+        },
+        {
+          "name": "Tahini Paste",
+          "measure_metric": "1 tablespoon"
+        },
+        {
+          "name": "Garlic Clove",
+          "measure_metric": "1 large"
+        },
+        {
+          "name": "Greek Yogurt",
+          "measure_metric": "3 tablespoons"
+        },
+        {
+          "name": "Lemon",
+          "measure_metric": "Juice of half"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/easy-hummus-recipe",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-22 08:44:38"
+    },
+    {
+      "id": "53310",
+      "mealName": "Challah",
+      "category": "Side",
+      "area": "Polish",
+      "country": "Poland",
+      "instructions": "step 1\r\nCombine the yeast, a pinch of the sugar and a couple tablespoons of lukewarm water in a small bowl. Stir to dissolve the yeast, then leave for 10 mins until foamy.\r\n\r\nstep 2\r\nMeanwhile, combine the flour, the remaining sugar and 2 tsp fine salt in a large bowl. Make a well in the centre, then add half the beaten egg, the yeast mixture and the oil. Pour in 200ml lukewarm water (it should feel slightly warm to the touch) and stir with a spoon, then mix using one hand, keeping the other clean while you bring the dough together. If there are a lot of very dry bits, gradually add a little water to just bring it together – you don't want it to get too wet and sticky. The dough should be moist, but not soggy.\r\n\r\nstep 3\r\nOnce the dough has come together, turn it out onto a lightly floured surface. Knead using both hands for 10 mins until smooth and a bit springy. If it gets very sticky, add a very small amount of flour – as little as possible. A dough scraper is useful if the dough is sticking to the work surface. Stretch the sides of the dough down and pull together to form a ball. Lightly oil a bowl, then lightly roll the dough ball around the bowl so it's coated in the oil. Cover with a clean tea towel and leave in a warm place for 1 hr, or until dough has doubled in size.\r\n\r\nstep 4\r\nLine a baking sheet with baking parchment. Turn the dough out onto a clean work surface and divide into three equal pieces, weighing for accuracy, if you like. Roll each piece into a long sausage shape about 25cm long, tapering them slightly at both ends. Lay the pieces out in front of you, parallel to one another with a couple centimetres between each. Bring the sausages together at the top end, then plait them down the length, tucking in the ends when you reach the bottom. Carefully transfer the loaf to the prepared baking sheet and loosely cover with a clean tea towel. Leave to rise until puffy and billowy, about 40 mins.\r\n\r\nstep 5\r\nMeanwhile, heat the oven to 200C/180C fan/gas 6. Gently brush the rest of the beaten egg all over the challah, getting it into all the crevices, and sprinkle with the poppy or sesame seeds, if using. Bake on a middle shelf of the oven for 25-30 mins, until the loaf is golden brown underneath and sounds hollow when tapped. Check after about 15 mins – if the top of the loaf has started to get too dark, cover it with foil. Leave to cool on a wire rack, then serve.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/fm01ky1764366365.jpg",
+      "ingredients": [
+        {
+          "name": "Strong white bread flour",
+          "measure_metric": "500g"
+        },
+        {
+          "name": "Caster Sugar",
+          "measure_metric": "70g"
+        },
+        {
+          "name": "Yeast",
+          "measure_metric": "10g"
+        },
+        {
+          "name": "Egg",
+          "measure_metric": "2 Beaten"
+        },
+        {
+          "name": "Sunflower Oil",
+          "measure_metric": "70ml"
+        },
+        {
+          "name": "Poppy Seeds",
+          "measure_metric": "1 tablespoon"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/challah",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-28 21:44:41"
+    },
+    {
+      "id": "53027",
+      "mealName": "Koshari",
+      "category": "Vegetarian",
+      "area": "Egyptian",
+      "country": "Egypt",
+      "instructions": "Cook the lentils. Bring lentils and 4 cups of water to a boil in a medium pot or saucepan over high heat. Reduce the heat to low and cook until lentils are just tender (15-17 minutes). Drain from water and season with a little salt. (Note: when the lentils are ready, they should not be fully cooked. They should be only par-cooked and still have a bite to them as they need to finish cooking with the rice).\r\nNow, for the rice. Drain the rice from its soaking water. Combine the par-cooked lentils and the rice in the saucepan over medium-high heat with 1 tbsp cooking oil, salt, pepper, and coriander. Cook for 3 minutes, stirring regularly. Add warm water to cover the rice and lentil mixture by about 1 1/2 inches (you'll probably use about 3 cups of water here). Bring to a boil; the water should reduce a bit. Now cover and cook until all the liquid has been absorbed and both the rice and lentils are well cooked through (about 20 minutes).  Keep covered and undisturbed for 5 minutes or so.\r\nNow make the pasta. While the rice and lentils are cooking, make the pasta according to package instructions by adding the elbow pasta to boiling water with a dash of salt and a little oil. Cook until the pasta is al dente. Drain.\r\nCover the chickpeas and warm in the microwave briefly before serving.\r\n\r\nMake the crispy onion topping. \r\n\r\nSprinkle the onion rings with salt, then toss them in the flour to coat. Shake off excess flour.\r\nIn a large skillet, heat the cooking oil over medium-high heat, cook the onion rings, stirring often, until they turn a nice caramelized brown. Onions must be crispy, but not burned (15-20 minutes).",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/4er7mj1598733193.jpg",
+      "ingredients": [
+        {
+          "name": "Brown Lentils",
+          "measure_metric": "1 1/2 cups"
+        },
+        {
+          "name": "Rice",
+          "measure_metric": "1 1/2 cups"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "1/2 tsp"
+        },
+        {
+          "name": "Macaroni",
+          "measure_metric": "2 cups"
+        },
+        {
+          "name": "Chickpeas",
+          "measure_metric": "Can"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1 large"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "Sprinkling"
+        },
+        {
+          "name": "Vegetable Oil",
+          "measure_metric": "1/2 cup"
+        }
+      ],
+      "source": "https://www.themediterraneandish.com/egyptian-koshari-recipe/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53153",
+      "mealName": "Churros",
+      "category": "Dessert",
+      "area": "Spanish",
+      "country": "Spain",
+      "instructions": "step 1\r\nBoil the kettle, then measure_metric 300ml boiling water into a jug and add the melted butter and vanilla extract. Sift the flour and baking powder into a big mixing bowl with a big pinch of salt. Make a well in the centre, then pour in the contents of the jug and very quickly beat into the flour with a wooden spoon until lump-free. Rest for 10-15 mins while you make the sauce.\r\n\r\nstep 2\r\nPut all the sauce ingredients into a pan and gently melt together, stirring occasionally until you have a smooth shiny sauce. Keep warm on a low heat.\r\n\r\nstep 3\r\nFill a large deep saucepan one-third full of oil. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Heat until a cube of bread browns in 45 seconds to 1 min. Cover a tray with kitchen paper and mix the caster sugar and cinnamon together.\r\n\r\nstep 4\r\nFit a star nozzle to a piping bag – 1.5-2cm wide is a good size. Fill with the rested dough, then pipe 2-3 strips directly into the pan, snipping off each dough strip with a pair of kitchen scissors. Fry until golden brown and crisp. Be very careful here – if air bubbles form in the churros they can explode, especially if the oil overheats or you use old flour. Cooking with hot oil can be dangerous – before you start, read up on how to deep-fry safely to avoid accidents in the kitchen. Keep children out of the kitchen and protect yourself by wearing long sleeves and eye protection, and keeping your face away from the pan.\r\n\r\nstep 5\r\nOnce the churros are crisp and golden brown, remove them from the oil with a slotted spoon and drain on the kitchen paper-lined tray. Carry on cooking the rest of the dough in batches, sprinkling the cooked churros with some cinnamon sugar as you go. When you've cooked all the churros, toss with any remaining cinnamon sugar and serve with the chocolate sauce, for dipping.\r\nTo see a video of how to prepare churros, take a look at our churros ice cream sandwich recipe.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/nxnny61763250596.jpg",
+      "ingredients": [
+        {
+          "name": "Butter",
+          "measure_metric": "50g"
+        },
+        {
+          "name": "Vanilla Extract",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Plain Flour",
+          "measure_metric": "250g"
+        },
+        {
+          "name": "Baking Powder",
+          "measure_metric": "1 teaspoon"
+        },
+        {
+          "name": "Sunflower Oil",
+          "measure_metric": "1 L"
+        },
+        {
+          "name": "Bread",
+          "measure_metric": "2 chopped"
+        },
+        {
+          "name": "Dark Chocolate",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Double Cream",
+          "measure_metric": "100ml"
+        },
+        {
+          "name": "Milk",
+          "measure_metric": "100ml"
+        },
+        {
+          "name": "Golden Syrup",
+          "measure_metric": "3 tablespoons"
+        },
+        {
+          "name": "Vanilla Extract",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Caster Sugar",
+          "measure_metric": "100g"
+        },
+        {
+          "name": "Cinnamon",
+          "measure_metric": "2 teaspoon"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/churros-chocolate-dipping-sauce",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-15 23:26:44"
+    },
+    {
+      "id": "52906",
+      "mealName": "Flamiche",
+      "category": "Vegetarian",
+      "area": "France",
+      "country": "France",
+      "instructions": "For the pastry, sift the flour and salt into the bowl of a food processor, add the butter and lard, then whizz together briefly until the mixture looks like fine breadcrumbs. Tip the mixture into a bowl, then stir in the cheese and enough of the water for the mixture to come together. Tip out onto a lightly floured surface and knead briefly until smooth. Roll out thinly and line a 23cm x 4cm loose-?bottomed fluted flan tin. Prick the base with a fork. Chill for 20 minutes.\r\n02.Melt the 75g butter in a saucepan over a low heat, then add the leeks and the salt. Cover and cook for ?10 minutes until soft. Uncover the pan, increase the heat and cook ?for 2 minutes, stirring occasionally, until the liquid has evaporated. Spoon onto a plate and leave to cool.\r\n03.Preheat the oven to 200°C/fan180°C/gas 6. Line the pastry case with baking paper and baking beans or rice and blind bake for 15-20 minutes until the edges are biscuit-coloured. Remove the paper and beans/rice and return the case to the oven for 7-10 minutes until the base is crisp and lightly golden. Remove and set aside. Reduce the oven temperature to 190°C/fan170°C/gas 5.\r\n04.Put the crème fraîche into a bowl with the whole egg, egg yolks and nutmeg. Lightly beat together, then season. Stir in the leeks. Spoon ?the mixture into the tart case and bake for 35-40 minutes until set ?and lightly golden. Remove from ?the oven and leave for 10 minutes. Take out of the tin and serve.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/wssvvs1511785879.jpg",
+      "ingredients": [
+        {
+          "name": "Butter",
+          "measure_metric": "75g"
+        },
+        {
+          "name": "Leek",
+          "measure_metric": "1kg"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "½ tsp"
+        },
+        {
+          "name": "Creme Fraiche",
+          "measure_metric": "300ml"
+        },
+        {
+          "name": "Egg",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Egg Yolks",
+          "measure_metric": "3"
+        },
+        {
+          "name": "Nutmeg",
+          "measure_metric": "¼ teaspoon"
+        },
+        {
+          "name": "Plain Flour",
+          "measure_metric": "225g"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "½ tsp"
+        },
+        {
+          "name": "Butter",
+          "measure_metric": "60g"
+        },
+        {
+          "name": "Lard",
+          "measure_metric": "60g"
+        },
+        {
+          "name": "Cheddar Cheese",
+          "measure_metric": "50g"
+        },
+        {
+          "name": "Water",
+          "measure_metric": "2 tbs"
+        }
+      ],
+      "source": "http://www.deliciousmagazine.co.uk/recipes/flamiche-flemish-leek-tart/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53238",
+      "mealName": "Beef pho",
+      "category": "Beef",
+      "area": "Vietnamese",
+      "country": "Vietnam",
+      "instructions": "step 1\r\nTip the beef stock along with 500ml of water into a large saucepan. Sit the onion and ginger in a frying pan over a high heat and char on all sides, around 3-5 mins (you can also do this under your grill). Once charred, add to the beef stock. In the same pan, toast the spices for 2-3 mins and once they begin to smell fragrant, add them to the beef stock as well. Bring the stock to the boil, then turn to a simmer and cook for 30mins before straining.\r\n\r\nstep 2\r\nMeanwhile, cut the fat from the steak and wrap in cling film, then put into the freezer for 15 mins – this will make your steak really easy to slice! Slice it thinly, then cover with cling film again and pop into the fridge.\r\n\r\nstep 3\r\nTaste the beef stock and use the palm sugar, fish sauce and soy to season. Cook the noodles according to package instructions and split between two bowls, topping each with the sliced beef. Bring the stock to the boil and then pour into the bowls (the heat will cook the beef). Top each with the spring onions, chilli slices and herbs. Serve with the lime wedges to squeeze over.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/pbzcrx1763765096.jpg",
+      "ingredients": [
+        {
+          "name": "Beef Stock",
+          "measure_metric": "1 L"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1 large"
+        },
+        {
+          "name": "Ginger",
+          "measure_metric": "1 Large Chopped"
+        },
+        {
+          "name": "Cinnamon Stick",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Star Anise",
+          "measure_metric": "2"
+        },
+        {
+          "name": "Coriander Seeds",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Cloves",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Sirloin steak",
+          "measure_metric": "225g"
+        },
+        {
+          "name": "Palm Sugar",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Fish Sauce",
+          "measure_metric": "1 tablespoon"
+        },
+        {
+          "name": "Soy Sauce",
+          "measure_metric": "1 ½ tbsp"
+        },
+        {
+          "name": "Rice Noodles",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Spring Onions",
+          "measure_metric": "2 sliced"
+        },
+        {
+          "name": "Birds-eye Chillies",
+          "measure_metric": "1 small"
+        },
+        {
+          "name": "Basil",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Lime",
+          "measure_metric": "1"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/beef-pho",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-21 22:40:23"
+    },
+    {
+      "id": "53191",
+      "mealName": "Pad Thai",
+      "category": "Seafood",
+      "area": "Thai",
+      "country": "Thailand",
+      "instructions": "step 1\r\nPut the noodles in a large heatproof bowl, pour boiling water over them and leave for 4 minutes, then drain and refresh under cold running water.\r\n\r\nstep 2\r\nPut the lime juice, cayenne, sugar and fish sauce in a bowl and mix well. Have all the other ingredients ready by the cooker.\r\n\r\nstep 3\r\nHeat the oil and fry the prawns until warmed through. Add the spring onions and noodles and toss around. Tip in the lime juice mixture, then stir in the beansprouts and half the peanuts and coriander. Cook for 1 minute until everything is heated through.\r\n\r\nstep 4\r\nPile into a large dish, scatter with the rest of the peanuts and coriander, and serve with lime wedges and sweet chilli sauce.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/rg9ze01763479093.jpg",
+      "ingredients": [
+        {
+          "name": "Rice Noodles",
+          "measure_metric": "125g"
+        },
+        {
+          "name": "Lime",
+          "measure_metric": "Juice of 3"
+        },
+        {
+          "name": "Cayenne Pepper",
+          "measure_metric": "1/2 teaspoon"
+        },
+        {
+          "name": "Muscovado Sugar",
+          "measure_metric": "2 teaspoons"
+        },
+        {
+          "name": "Fish Sauce",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Vegetable Oil",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Tiger Prawns",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Spring Onions",
+          "measure_metric": "4 finely sliced"
+        },
+        {
+          "name": "Bean Sprouts",
+          "measure_metric": "140g"
+        },
+        {
+          "name": "Peanuts",
+          "measure_metric": "25g"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Lime",
+          "measure_metric": "2"
+        },
+        {
+          "name": "sweet chilli sauce",
+          "measure_metric": "To serve"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/easy-pad-thai",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-17 07:57:50"
+    },
+    {
+      "id": "52802",
+      "mealName": "Fish pie",
+      "category": "Seafood",
+      "area": "British",
+      "country": "United Kingdom",
+      "instructions": "01.Put the potatoes in a large pan of cold salted water and bring to the boil. Lower the heat, cover, then simmer gently for 15 minutes until tender. Drain, then return to the pan over a low heat for 30 seconds to drive off any excess water. Mash with 1 tbsp olive oil, then season.\r\n02.Meanwhile put the milk in a large sauté pan, add the fish and bring to the boil. Remove from the heat, cover and stand for 3 minutes. Remove the fish (reserving the milk) and pat dry with kitchen paper, then gently flake into an ovenproof dish, discarding the skin and any bones.\r\n03.Heat the remaining oil in a pan, stir in the flour and cook for 30 seconds. Gradually stir in 200-250ml of the reserved milk (discard the rest). Grate in nutmeg, season, then bubble until thick. Stir in the cream.\r\n04.Preheat the oven to 190°C/fan170°C/gas 5. Grate the artichokes and add to the dish with the leek, prawns and herbs. Stir the lemon zest and juice into the sauce, then pour over. Mix gently with a wooden spoon.\r\n05.Spoon the mash onto the fish mixture, then use a fork to make peaks, which will crisp and brown as it cooks. Sprinkle over the cheese, then bake for 35-40 minutes until golden and bubbling. Serve with wilted greens.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/ysxwuq1487323065.jpg",
+      "ingredients": [
+        {
+          "name": "Floury Potatoes",
+          "measure_metric": "900g"
+        },
+        {
+          "name": "Olive Oil",
+          "measure_metric": "2 tbsp"
+        },
+        {
+          "name": "Semi-skimmed Milk",
+          "measure_metric": "600ml"
+        },
+        {
+          "name": "White Fish Fillets",
+          "measure_metric": "800g"
+        },
+        {
+          "name": "Plain flour",
+          "measure_metric": "1 tbsp"
+        },
+        {
+          "name": "Nutmeg",
+          "measure_metric": "Grating"
+        },
+        {
+          "name": "Double Cream",
+          "measure_metric": "3 tbsp"
+        },
+        {
+          "name": "Jerusalem Artichokes",
+          "measure_metric": "200g"
+        },
+        {
+          "name": "Leek",
+          "measure_metric": "1 finely sliced"
+        },
+        {
+          "name": "Prawns",
+          "measure_metric": "200g peeled raw"
+        },
+        {
+          "name": "Parsley",
+          "measure_metric": "Large handful"
+        },
+        {
+          "name": "Dill",
+          "measure_metric": "Handful"
+        },
+        {
+          "name": "Lemon",
+          "measure_metric": "Grated zest of 1"
+        },
+        {
+          "name": "Gruyère",
+          "measure_metric": "25g grated"
+        },
+        {
+          "name": "Lemon",
+          "measure_metric": "Juice of 1"
+        }
+      ],
+      "source": "",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53028",
+      "mealName": "Shawarma",
+      "category": "Chicken",
+      "area": "Egyptian",
+      "country": "Egypt",
+      "instructions": "Combine the marinade ingredients in a large ziplock bag (or bowl).\r\nAdd the chicken and use your hands to make sure each piece is coated. If using a ziplock bag, I find it convenient to close the bag then massage the bag to disperse the rub all over each chicken piece.\r\nMarinate overnight or up to 24 hours.\r\nCombine the Yoghurt Sauce ingredients in a bowl and mix. Cover and put in the fridge until required (it will last for 3 days in the fridge).\r\nHeat grill/BBQ (or large heavy based pan on stove) on medium high. You should not need to oil it because the marinade has oil in it and also thigh fillets have fat. But if you are worried then oil your hotplate/grill. (See notes for baking)\r\nPlace chicken on the grill and cook the first side for 4 to 5 minutes until nicely charred, then turn and cook the other side for 3 to 4 minutes (the 2nd side takes less time).\r\nRemove chicken from the grill and cover loosely with foil. Set aside to rest for 5 minutes.\r\nTO SERVE\r\nSlice chicken and pile onto platter alongside flatbreads, Salad and the Yoghurt Sauce.\r\nTo make a wrap, get a piece of flatbread and smear with Yoghurt Sauce. Top with a bit of lettuce and tomato and Chicken Shawarma. Roll up and enjoy!",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/kcv6hj1598733479.jpg",
+      "ingredients": [
+        {
+          "name": "Chicken Thighs",
+          "measure_metric": "1 kg"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Cumin",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Cardamom",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Cayenne Pepper",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Paprika",
+          "measure_metric": "2 tsp"
+        },
+        {
+          "name": "Lemon Juice",
+          "measure_metric": "2 tbs"
+        },
+        {
+          "name": "Olive Oil",
+          "measure_metric": "3 tbs"
+        },
+        {
+          "name": "Greek Yogurt",
+          "measure_metric": "1 cup"
+        },
+        {
+          "name": "Garlic Clove",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Cumin",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Lemon Juice",
+          "measure_metric": "Splash"
+        },
+        {
+          "name": "Lettuce",
+          "measure_metric": "Sliced"
+        },
+        {
+          "name": "Tomato",
+          "measure_metric": "Sliced"
+        },
+        {
+          "name": "Pita Bread",
+          "measure_metric": "6"
+        }
+      ],
+      "source": "https://www.recipetineats.com/chicken-sharwama-middle-eastern/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "52963",
+      "mealName": "Shakshuka",
+      "category": "Vegetarian",
+      "area": "Egyptian",
+      "country": "Egypt",
+      "instructions": "Heat the oil in a frying pan that has a lid, then soften the onions, chilli, garlic and coriander stalks for 5 mins until soft. Stir in the tomatoes and sugar, then bubble for 8-10 mins until thick. Can be frozen for 1 month.\r\n\r\nUsing the back of a large spoon, make 4 dips in the sauce, then crack an egg into each one. Put a lid on the pan, then cook over a low heat for 6-8 mins, until the eggs are done to your liking. Scatter with the coriander leaves and serve with crusty bread.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/g373701551450225.jpg",
+      "ingredients": [
+        {
+          "name": "Olive Oil",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Red Onions",
+          "measure_metric": "2 chopped"
+        },
+        {
+          "name": "Red Chilli",
+          "measure_metric": "1 finely chopped"
+        },
+        {
+          "name": "Garlic",
+          "measure_metric": "1 clove"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "Chopped"
+        },
+        {
+          "name": "Cherry Tomatoes",
+          "measure_metric": "800g"
+        },
+        {
+          "name": "Caster Sugar",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Eggs",
+          "measure_metric": "4"
+        },
+        {
+          "name": "Feta",
+          "measure_metric": "Sprinkling"
+        }
+      ],
+      "source": "https://www.bbcgoodfood.com/recipes/7573/spicy-tomato-baked-eggs",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53052",
+      "mealName": "Roti john",
+      "category": "Beef",
+      "area": "Malaysian",
+      "country": "Malaysia",
+      "instructions": "Mix all the ingredients in a bowl.\r\nHeat a pan or griddle with a little vegetable oil.\r\nPour the mixture onto the pan and place a piece of open-faced baguette on top.\r\nPress on the bread with a spatula and grill for 2 minutes.\r\nTurn the bread over to make it a little crispy.\r\nRemove from pan and cut the bread into small portions.\r\nAdd mayonnaise and/or Sambal before cutting the sandwich (optional).",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/hx335q1619789561.jpg",
+      "ingredients": [
+        {
+          "name": "Minced Beef",
+          "measure_metric": "1/4 lb"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Eggs",
+          "measure_metric": "3"
+        },
+        {
+          "name": "Chilli",
+          "measure_metric": "1 tbs"
+        },
+        {
+          "name": "Baguette",
+          "measure_metric": "1/2"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "To taste"
+        },
+        {
+          "name": "Pepper",
+          "measure_metric": "To taste"
+        },
+        {
+          "name": "Mayonnaise",
+          "measure_metric": "Top"
+        }
+      ],
+      "source": "https://www.196flavors.com/malaysia-roti-john/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53136",
+      "mealName": "Choripán",
+      "category": "Pork",
+      "area": "Argentina",
+      "country": "Argentina",
+      "instructions": "Grill the Chorizos: Cook the chorizos on a grill or pan until fully cooked, about 10-15 minutes.\r\nPrepare the Rolls: Slice the rolls and toast them lightly on the grill or in a pan.\r\nAssemble: Slice each chorizo lengthwise and place in a roll. Top with a generous amount of chimichurri sauce.\r\nServe: Enjoy immediately while hot.\r\nPro Tips:\r\n\r\nGrill the chorizo slowly on medium heat to prevent the skin from bursting and to ensure it cooks evenly throughout.\r\nToast the bread on the grill to absorb some of the chorizo's flavors.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/5i25sg1763075353.jpg",
+      "ingredients": [
+        {
+          "name": "Chorizo",
+          "measure_metric": "4"
+        },
+        {
+          "name": "Crusty Bread",
+          "measure_metric": "4"
+        },
+        {
+          "name": "Chimichurri sauce",
+          "measure_metric": "Drizzle"
+        }
+      ],
+      "source": "https://www.munchery.com/blog/the-ten-iconic-dishes-of-argentina-and-how-to-cook-them-at-home/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-13 11:14:09"
+    },
+    {
+      "id": "53029",
+      "mealName": "Mulukhiyah",
+      "category": "Beef",
+      "area": "Egyptian",
+      "country": "Egypt",
+      "instructions": "Saute the onions in the 3-4 tablespoons olive oil\r\nAdd the beef cubes or the chicken cutlets, sear for 3-4 min on each side\r\nAdd 1 liter of water or just enough to cover the meat\r\nCook over medium heat until the meat is done (I usually do this in the pressure cooker and press them for 5 min)\r\n\r\nAdd the frozen mulukhyia and stir until it thaws completely and then comes to a boil\r\n\r\nIn another pan add the 1/4 to 1/2 cup of olive oil and the cloves of garlic and cook over medium low heat until you can smell the garlic (don't brown it, it will become bitter)\r\n\r\nAdd the oil and garlic to the mulukhyia and lower the heat and simmer for 5-10 minutes\r\nAdd salt to taste\r\n\r\nServe with a generous amount of lemon juice.\r\n\r\nYou can serve it with some short grain rice or some pita bread",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/x372ug1598733932.jpg",
+      "ingredients": [
+        {
+          "name": "Mulukhiyah",
+          "measure_metric": "800g"
+        },
+        {
+          "name": "Onion",
+          "measure_metric": "1 chopped"
+        },
+        {
+          "name": "Beef",
+          "measure_metric": "300g"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Water",
+          "measure_metric": "1 Litre"
+        },
+        {
+          "name": "Garlic Clove",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Olive Oil",
+          "measure_metric": "1/2 cup"
+        }
+      ],
+      "source": "https://chefindisguise.com/2017/05/15/mulukhiyah-a-stew-fit-for-royals/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "52781",
+      "mealName": "Irish stew",
+      "category": "Beef",
+      "area": "Irish",
+      "country": "Ireland",
+      "instructions": "Heat the oven to 180C/350F/gas mark 4. Drain and rinse the soaked wheat, put it in a medium pan with lots of water, bring to a boil and simmer for an hour, until cooked. Drain and set aside.\r\n\r\nSeason the lamb with a teaspoon of salt and some black pepper. Put one tablespoon of oil in a large, deep sauté pan for which you have a lid; place on a medium-high heat. Add some of the lamb – don't overcrowd the pan – and sear for four minutes on all sides. Transfer to a bowl, and repeat with the remaining lamb, adding oil as needed.\r\n\r\nLower the heat to medium and add a tablespoon of oil to the pan. Add the shallots and fry for four minutes, until caramelised. Tip these into the lamb bowl, and repeat with the remaining vegetables until they are all nice and brown, adding more oil as you need it.\r\n\r\nOnce all the vegetables are seared and removed from the pan, add the wine along with the sugar, herbs, a teaspoon of salt and a good grind of black pepper. Boil on a high heat for about three minutes.\r\n\r\nTip the lamb, vegetables and whole wheat back into the pot, and add the stock. Cover and boil for five minutes, then transfer to the oven for an hour and a half.\r\n\r\nRemove the stew from the oven and check the liquid; if there is a lot, remove the lid and boil for a few minutes.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/sxxpst1468569714.jpg",
+      "ingredients": [
+        {
+          "name": "whole wheat",
+          "measure_metric": "300g soaked overnight in water"
+        },
+        {
+          "name": "lamb loin chops",
+          "measure_metric": "2kg cut into 3cm cubes"
+        },
+        {
+          "name": "olive oil",
+          "measure_metric": "120ml"
+        },
+        {
+          "name": "shallots",
+          "measure_metric": "24 Skinned"
+        },
+        {
+          "name": "Carrots",
+          "measure_metric": "4 large"
+        },
+        {
+          "name": "turnips",
+          "measure_metric": "2"
+        },
+        {
+          "name": "celeriac",
+          "measure_metric": "1"
+        },
+        {
+          "name": "charlotte potatoes",
+          "measure_metric": "350g"
+        },
+        {
+          "name": "white wine",
+          "measure_metric": "150ml"
+        },
+        {
+          "name": "caster sugar",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "fresh thyme",
+          "measure_metric": "4 sprigs"
+        },
+        {
+          "name": "oregano",
+          "measure_metric": "4 sprigs"
+        },
+        {
+          "name": "chicken stock",
+          "measure_metric": "450ml"
+        }
+      ],
+      "source": "http://www.ottolenghi.co.uk/recipes/meat/irish-stew-shop",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53215",
+      "mealName": "Shakshouka",
+      "category": "Miscellaneous",
+      "area": "Saudi Arabian",
+      "country": "Saudi Arabia",
+      "instructions": "1\r\nFirst, pan fry the black pepper and garlic over a dry medium heat until fragrant.\r\n2\r\nAdd a good amount of extra virgin olive oil and infuse for a minute.\r\n3\r\nOnce the oil heats up, add the tomatoes and salt, and cover with a lid. Simmer for 5 minutes.\r\n4\r\nRemove the lid and mash the tomatoes. Reduce until you reach the desired consistency of choice.\r\n5\r\nMake craters for the eggs and lower the heat. Carefully crack the eggs into the craters, making sure it touches the pan and not the tomato sauce.\r\n6\r\nCover the eggs and leave it for 5 minutes without lifting the lid.\r\n7\r\nRemove from the heat and let the residual heat steam the eggs for 1-2 minutes.\r\n8\r\nServe with flatbread. Enjoy!",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/crd1jz1763592990.jpg",
+      "ingredients": [
+        {
+          "name": "Tomato",
+          "measure_metric": "250g"
+        },
+        {
+          "name": "Extra Virgin Olive Oil",
+          "measure_metric": "40ml"
+        },
+        {
+          "name": "Egg",
+          "measure_metric": "4"
+        },
+        {
+          "name": "Garlic Clove",
+          "measure_metric": "4 sliced"
+        },
+        {
+          "name": "Black Pepper",
+          "measure_metric": "To taste"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "To taste"
+        }
+      ],
+      "source": "https://cookpad.com/eng/recipes/24999905?ref=search&search_term=saudi+arabia",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2025-11-19 22:54:39"
+    },
+    {
+      "id": "53043",
+      "mealName": "Fish fofos",
+      "category": "Seafood",
+      "area": "Portuguese",
+      "country": "Portugal",
+      "instructions": "STEP 1\r\n\r\nPut the fish into a lidded pan and pour over enough water to cover. Bring to a simmer and gently poach for 10 minutes over a low heat with the lid on. Drain and flake the fish.\r\n\r\nSTEP 2\r\n\r\nPut the fish, potato, green chilli, coriander, cumin, black pepper, garlic and ginger in a large bowl. Season, add the rice flour, mix well and break in 1 egg. Stir the mixture and divide into 15, then form into small logs. Break the remaining eggs into a bowl and whisk lightly. Put the breadcrumbs into another bowl. Dip each fofo in the beaten egg followed by the breadcrumb mixture. Chill for 20 minutes.\r\n\r\nSTEP 3\r\n\r\nHeat 1cm of oil in a large frying pan over a medium heat. Fry the fofos in batches for 2 minutes on each side, turning gently to get an even golden brown colour all over. Drain on kitchen paper and repeat with the remaining fofos.\r\n\r\nSTEP 4\r\n\r\nFor the onion salad, mix together the onion, coriander and lemon juice with a pinch of salt. Serve with the fofos and mango chutney.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/a15wsa1614349126.jpg",
+      "ingredients": [
+        {
+          "name": "Haddock",
+          "measure_metric": "600g"
+        },
+        {
+          "name": "Potatoes",
+          "measure_metric": "300g"
+        },
+        {
+          "name": "Green Chilli",
+          "measure_metric": "1 chopped"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "3 tbs"
+        },
+        {
+          "name": "Cumin Seeds",
+          "measure_metric": "1 tsp"
+        },
+        {
+          "name": "Pepper",
+          "measure_metric": "1/2 tsp"
+        },
+        {
+          "name": "Garlic",
+          "measure_metric": "3 cloves"
+        },
+        {
+          "name": "Ginger",
+          "measure_metric": "2 pieces"
+        },
+        {
+          "name": "Flour",
+          "measure_metric": "2 tbs"
+        },
+        {
+          "name": "Eggs",
+          "measure_metric": "3"
+        },
+        {
+          "name": "Breadcrumbs",
+          "measure_metric": "75g"
+        },
+        {
+          "name": "Vegetable Oil",
+          "measure_metric": "For frying"
+        }
+      ],
+      "source": "https://www.olivemagazine.com/recipes/fish-and-seafood/fish-fofos/",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": null
+    },
+    {
+      "id": "53433",
+      "mealName": "Mango chow",
+      "category": "Side",
+      "area": null,
+      "country": "Antigua and Barbuda",
+      "instructions": "Simply combine everything in a bowl and serve alongside just about anything.",
+      "mealThumb": "https://www.themealdb.com/images/media/meals/8hx4fi1780087744.jpg",
+      "ingredients": [
+        {
+          "name": "Mango",
+          "measure_metric": "1/2"
+        },
+        {
+          "name": "Spring Onions",
+          "measure_metric": "1 chopped"
+        },
+        {
+          "name": "Scotch Bonnet",
+          "measure_metric": "1"
+        },
+        {
+          "name": "Coriander",
+          "measure_metric": "2 tablespoons"
+        },
+        {
+          "name": "Lime",
+          "measure_metric": "Zest and juice of 1"
+        },
+        {
+          "name": "Salt",
+          "measure_metric": "To taste"
+        },
+        {
+          "name": "Pepper",
+          "measure_metric": "To taste"
+        }
+      ],
+      "source": "https://www.theguardian.com/food/2020/jul/04/andi-oliver-antiguan-feast-recipes-slow-cooked-pork-belly-corn-chilli-lime-mango-chow-spiced-bread-butter-pudding",
+      "imageSource": null,
+      "creativeCommonsConfirmed": null,
+      "dateModified": "2026-05-29 21:47:34"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
