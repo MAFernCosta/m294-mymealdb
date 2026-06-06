@@ -17,15 +17,34 @@ This project was developed as part of **Module 294 — Frontend einer interaktiv
 
 ## Tech Stack
 
-| | |
-|---|---|
-| **Framework** | React 19 |
-| **Build Tool** | Vite |
-| **Routing** | React Router DOM |
-| **Styling** | Bootstrap 5, Bootstrap Icons |
-| **Backend** | json-server |
-| **Testing** | Vitest, React Testing Library |
-| **Dev Tools** | ESLint, concurrently |
+
+- **Framework** - React 19 
+- **Build Tool** - Vite 
+- **Routing** - React Router DOM 
+- **Styling** - Bootstrap 5, Bootstrap Icons 
+- **Backend** - json-server 
+- **Testing** - Vitest, React Testing Library 
+- **Dev Tools** - ESLint, concurrently 
+
+---
+
+## Project directory structure:
+
+```
+Directory structure:
+└── m294-mymealdb/
+    ├── Dokumentation/
+    │   ├── Bildschirme-der-my-meal-db.drawio
+    │   ├── Klassendiagram.drawio
+    │   ├── assets/
+    │   └── projektdokumentation.md
+    ├── Front-End/
+    ├── LICENSE
+    ├── README.md
+    ├── Ressourcen/
+    ├── package-lock.json
+    └── package.json
+```
 
 ---
 

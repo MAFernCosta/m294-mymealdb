@@ -100,7 +100,7 @@ Akzeptanzkriterien:
 
 ## 3. Klassendiagramm
 
-![](/home/mike/.config/marktext/images/2026-06-05-15-31-20-Klassendiagram.jpg)
+![](assets/2026-06-06-09-00-41-Klassendiagram.jpg)
 
 ### Klasse: Meal
 
