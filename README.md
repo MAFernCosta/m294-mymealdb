@@ -11,12 +11,11 @@ This project was developed as part of **Module 294 — Frontend einer interaktiv
 > **Note:** All documentation is written in German.
 
 - [Projektdokumentation (Markdown)](./Dokumentation/projektdokumentation.md)
-<!-- - [Projektdokumentation (PDF)](./Dokumentation/projektdokumentation.pdf)-->
+- [Projektdokumentation (PDF)](./projektdokumentation.pdf)
 
 ---
 
 ## Tech Stack
-
 
 - **Framework** - React 19 
 - **Build Tool** - Vite 
@@ -51,27 +50,32 @@ Directory structure:
 ## Installation
 
 ### Prerequisites
+
 - Node.js (Version 18 or higher)
 - npm
 - Git
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/MAFernCosta/m294-mymealdb
 cd m294-mymealdb
 ```
 
 ### 2. Install dependencies
+
 ```bash
 npm install
 ```
 
 ### 3. Configure environment variables
+
 ```bash
 cp Front-End/.env.example Front-End/.env
 ```
 
 ### 4. Start the application
+
 ```bash
 npm run dev
 ```
@@ -80,6 +84,7 @@ npm run dev
 - API: `http://localhost:3001`
 
 ### Run tests
+
 ```bash
 npm run test
 ```
