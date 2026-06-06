@@ -140,7 +140,7 @@ Akzeptanzkriterien:
 
 ## 5. Screen-Mockups
 
-Die Screen-Mockups umfassen sowohl die Desktop- als auch die Mobile-Ansicht der Applikation. Die Mobile-Version wurde aus Zeitgründen nicht implementiert und ist unter den möglichen Erweiterungen aufgeführt.
+Die Screen-Mockups umfassen sowohl die Desktop- als auch die Mobile-Ansicht der Applikation. Die Mobile-Version wurde aus Zeitgründen nicht implementiert.
 
 ### Desktop
 
