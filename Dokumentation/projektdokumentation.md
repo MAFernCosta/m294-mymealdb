@@ -365,7 +365,7 @@ Prüft ob die Funktion `searchMeal` einen Fehler wirft wenn die API einen fehlge
 ### 1. Repository klonen
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MAFernCosta/m294-mymealdb
 cd m294-mymealdb
 ```
 

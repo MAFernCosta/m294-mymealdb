@@ -38,7 +38,7 @@ This project was developed as part of **Module 294 — Frontend einer interaktiv
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/MAFernCosta/m294-mymealdb
 cd m294-mymealdb
 ```
 
